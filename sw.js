@@ -1,4 +1,4 @@
-const CACHE_NAME = "knowledge-6ad5482c4b419f3e";
+const CACHE_NAME = "knowledge-84815bd1e15818eb";
 const CONTENT_PREFIX = new URL("./content/", self.registration.scope).href;
 self.addEventListener("install", (event) => event.waitUntil(self.skipWaiting()));
 self.addEventListener("activate", (event) => event.waitUntil((async () => {
