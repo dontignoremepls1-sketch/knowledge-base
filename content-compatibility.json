@@ -1,0 +1,2149 @@
+{
+  "schemaVersion": 1,
+  "currentVersion": "8a227080b7baf76cfb5f3ecc1757a80b135832b50daed67a9f3cd7e93f0cda01",
+  "previousVersion": "106ec7f3095f221deabf687c347c3fb6f5ce7a13bcabd770c08c5b8a4dc16c14",
+  "policy": "Exactly one preceding content generation; immutable data only, no old index or visible archive.",
+  "files": [
+    {
+      "file": "content/article-avtonomnoe-vyzhivanie-marshrut-voda-snaryazhenie-i-prioritety-106ec7f3095f221d.json",
+      "sha256": "b588295d941e67dce8e9086adb5032ebd48b078e45a44f8d0f9c6157e5785f14",
+      "bytes": 104180
+    },
+    {
+      "file": "content/article-alkogol-zavisimost-i-vozvrat-k-trezvosti-106ec7f3095f221d.json",
+      "sha256": "60fa9f94a05761593e2acccd47cc5cbd91825a03216f0c5ad7e08bb7b9adb7ca",
+      "bytes": 195347
+    },
+    {
+      "file": "content/article-analizy-chekapy-i-granitsy-samodiagnostiki-106ec7f3095f221d.json",
+      "sha256": "b81116a96d2350416b43a1ee44b7b3252d5b12b5b659cdba7e0decef2bad5d82",
+      "bytes": 110626
+    },
+    {
+      "file": "content/article-anatomiya-i-seksualnaya-reaktsiya-106ec7f3095f221d.json",
+      "sha256": "31c56ac9290915ff4e0baf8867f5c16e7f9ad8e7692e32cd450596a84c90387e",
+      "bytes": 93954
+    },
+    {
+      "file": "content/article-anatomiya-psevdonauki-106ec7f3095f221d.json",
+      "sha256": "c6862bc30c1d2e4569f7b2296bcc188c91d8d1c2841d67d2284d92585d6b6872",
+      "bytes": 67516
+    },
+    {
+      "file": "content/article-arbalet-energiya-vystrela-temp-i-mesto-v-voyne-106ec7f3095f221d.json",
+      "sha256": "326505a3c04b0c6eaa1a94cb6a042fc7ee92ca17455f6bbc26d37d9eb1a9bae4",
+      "bytes": 52096
+    },
+    {
+      "file": "content/article-armiya-kak-sistema-snabzhenie-marsh-i-dlitelnost-bitvy-106ec7f3095f221d.json",
+      "sha256": "3e340a7143214342e498c5e5850ef07757185f592bceda9ee4f1e7f9283244ee",
+      "bytes": 92549
+    },
+    {
+      "file": "content/article-arhitektura-veb-prilozheniy-spa-mpa-pwa-i-backend-106ec7f3095f221d.json",
+      "sha256": "8afa610b8ee7c735a155fd3fd9707b094ab788aa6087431c070f0a09b9acac7f",
+      "bytes": 88905
+    },
+    {
+      "file": "content/article-arhitektura-platezhnoy-integratsii-statusy-povtory-i-sverka-106ec7f3095f221d.json",
+      "sha256": "e690de9e2dd4787208ad32c8dbe95b250e8c38f1d7af866923af44c47b547e3e",
+      "bytes": 63299
+    },
+    {
+      "file": "content/article-atrofiya-metaplaziya-i-predrakovye-izmeneniya-zheludka-106ec7f3095f221d.json",
+      "sha256": "18dc924bb8a3f3aee2721ae4273dbac9be47aa5f0edc498fa65744255d423c0c",
+      "bytes": 56990
+    },
+    {
+      "file": "content/article-autentifikatsiya-avtorizatsiya-sessii-i-tokeny-106ec7f3095f221d.json",
+      "sha256": "96d40ec2f43942c3237d135b6c6e84f78586810a6b73fdc494dea517ae410c28",
+      "bytes": 70655
+    },
+    {
+      "file": "content/article-biologicheskiy-pol-interseks-variatsii-i-sport-106ec7f3095f221d.json",
+      "sha256": "5123f230ac7738297d8034bfb4722a5cbd1fc07cb052f87f37c435ea7d2f1f49",
+      "bytes": 46287
+    },
+    {
+      "file": "content/article-biologiya-stareniya-106ec7f3095f221d.json",
+      "sha256": "8389b85280cf5d97ff31e5ba417a1fba788dccd82f916badf76264f09c802ecf",
+      "bytes": 59786
+    },
+    {
+      "file": "content/article-bol-solntse-pogoda-i-telesnye-signaly-106ec7f3095f221d.json",
+      "sha256": "cb400acffe12a371f5b1ab9fec1dab87850bfc643c18f82ed7f27f877ac28b69",
+      "bytes": 62353
+    },
+    {
+      "file": "content/article-buduschee-pischevyh-sistem-sintez-zemledelie-i-dieta-106ec7f3095f221d.json",
+      "sha256": "aa7a4c1b57abe705d99cfc905785b7aede380d9419ca842b6cd707061355cb0e",
+      "bytes": 62923
+    },
+    {
+      "file": "content/article-vaginalnyy-mikrobiom-i-bakterialnyy-vaginoz-106ec7f3095f221d.json",
+      "sha256": "9d88ec06f53da94d817274c163799221cb8f217575c11fb56b78e39b570a87f5",
+      "bytes": 62453
+    },
+    {
+      "file": "content/article-vaktsiny-immunitet-i-allergiya-106ec7f3095f221d.json",
+      "sha256": "30796b2e32ac3fb99f032ace4d976efc64ff4b4ad57cf8c0f59459280eacc2e1",
+      "bytes": 90965
+    },
+    {
+      "file": "content/article-velikany-drakony-i-ustroystvo-mifologicheskogo-obyasneniya-106ec7f3095f221d.json",
+      "sha256": "896f4b416e9da9592fc709b808bed0dc9bbb8f666f19d00775bd5e0c83941768",
+      "bytes": 101094
+    },
+    {
+      "file": "content/article-vzdutie-gazoobrazovanie-i-sibr-106ec7f3095f221d.json",
+      "sha256": "7785ef0dcdb42f7c24f3dfc0c50c469ddf261c9b1dcf99357527158c84824ab8",
+      "bytes": 74032
+    },
+    {
+      "file": "content/article-virtualizatsiya-konteynery-docker-i-kubernetes-106ec7f3095f221d.json",
+      "sha256": "11aeacdea82deb5714e221c6bed5653e4f64dcfa0fd8d8c730eb573a3f60c41d",
+      "bytes": 79361
+    },
+    {
+      "file": "content/article-virusnye-gepatity-a-b-c-d-i-e-106ec7f3095f221d.json",
+      "sha256": "f4ede9de7965710b12b2dd7c845555f908c612511ba7ba9315e0026bd6bff3b7",
+      "bytes": 53351
+    },
+    {
+      "file": "content/article-visholding-106ec7f3095f221d.json",
+      "sha256": "7e84bd0cf39011bda6b8e4a44960297e81563e5541bf5c5030ebdfd8981b0bc1",
+      "bytes": 45144
+    },
+    {
+      "file": "content/article-vitaminy-mikroelementy-i-bady-106ec7f3095f221d.json",
+      "sha256": "8feae42a2887ce58cf20ec5a53b17d85ccaf4dcb02ad9ed78822f247df50ffe1",
+      "bytes": 160658
+    },
+    {
+      "file": "content/article-vkus-i-adaptatsiya-pischevyh-privychek-106ec7f3095f221d.json",
+      "sha256": "2c16c4413048ccb4f4020fb0ca9d5e8702913f0741d44f1faa6a54b72500e22f",
+      "bytes": 51795
+    },
+    {
+      "file": "content/article-vospalitelnye-zabolevaniya-kishechnika-yazvennyy-kolit-i-bolezn-krona-106ec7f3095f221d.json",
+      "sha256": "17dfb768e85e2ecd90f6cf4b1284fcfb98b73fe350211d826731853bc14b5601",
+      "bytes": 57259
+    },
+    {
+      "file": "content/article-vosproizvodimost-i-nadezhnost-issledovaniy-106ec7f3095f221d.json",
+      "sha256": "07b6cd65d7b4f0ad2bc138352db96fdf761c5ce7b2bd95b48b05b9d55f25a1f0",
+      "bytes": 58182
+    },
+    {
+      "file": "content/article-vosstanovlenie-svyazi-s-rebenkom-106ec7f3095f221d.json",
+      "sha256": "6dfd59e454a7c9dbde88dc1d0a9411f7400de74081a502b8b564a5e21a400dac",
+      "bytes": 45863
+    },
+    {
+      "file": "content/article-vosstanovlenie-superkompensatsiya-i-peretrenirovannost-106ec7f3095f221d.json",
+      "sha256": "ea66bf0cee757e520340c6bb16ec704d3c2cfb86e4eb549abab8780e934634f4",
+      "bytes": 55382
+    },
+    {
+      "file": "content/article-omnipotent-control-106ec7f3095f221d.json",
+      "sha256": "40ccd5c2488343f28f4dde0a0353ebf90f88a147c7195a1bc1b4336cebf90f9a",
+      "bytes": 46240
+    },
+    {
+      "file": "content/article-vybor-avtoriteta-authority-selection-bias-106ec7f3095f221d.json",
+      "sha256": "b71e68cfe1ec39332394841fe623c0d630a024af023d6c36eade5a4075068a3b",
+      "bytes": 50990
+    },
+    {
+      "file": "content/article-vysokaya-nagruzka-dostupnost-i-ustoychivost-106ec7f3095f221d.json",
+      "sha256": "f9b88d5b1408924f89635eba82925eb5096f6cea16070f384b6881baf7c33e2f",
+      "bytes": 85102
+    },
+    {
+      "file": "content/article-vyyavlenie-trebovaniy-intervyu-vorkshopy-i-nablyudenie-106ec7f3095f221d.json",
+      "sha256": "bd1d7fb07ee6336b1196eb669d7983782058eafaa0be9a803c83c23a1d00f900",
+      "bytes": 62418
+    },
+    {
+      "file": "content/article-gazlayting-106ec7f3095f221d.json",
+      "sha256": "d490017f75490cd4dcc084c711cffa7d0ea591e8d650a3066cf607eb30e3cf53",
+      "bytes": 80971
+    },
+    {
+      "file": "content/article-gastrit-helicobacter-pylori-i-yazvennaya-bolezn-106ec7f3095f221d.json",
+      "sha256": "1994b617db248c57067ff8258240ff0f0457ff8d80e1513c2334a9376d38902c",
+      "bytes": 84679
+    },
+    {
+      "file": "content/article-gendernye-roli-i-ozhidaniya-v-pare-106ec7f3095f221d.json",
+      "sha256": "1221f6bc595d49d0beb311f2a4e96ef9f17a36ff53779d531639cad1b7ae40e2",
+      "bytes": 459245
+    },
+    {
+      "file": "content/article-cases-generalization-106ec7f3095f221d.json",
+      "sha256": "9ba6f925be7dbdb55bda9cddbc280a5972c7b1d530e07e96e6015cad69e3c285",
+      "bytes": 75163
+    },
+    {
+      "file": "content/article-geneticheskie-testy-proishozhdenie-i-predskazaniya-106ec7f3095f221d.json",
+      "sha256": "2ebcf8867b1250fc53083a1c4005c359e6f92347e23455245fd364f024e15bd6",
+      "bytes": 58444
+    },
+    {
+      "file": "content/article-genom-mutatsii-i-geneticheskoe-raznoobrazie-106ec7f3095f221d.json",
+      "sha256": "42081a7cdc1aff000b07aded364b9b030091ca3b490931f4e96edc9780da3574",
+      "bytes": 59691
+    },
+    {
+      "file": "content/article-gipertrofiya-sila-i-nabor-myshechnoy-massy-106ec7f3095f221d.json",
+      "sha256": "15f0f5c41ca73481efc533f2eda7aad13b2a3bb3ae9e92d0fd8ab81a8c994714",
+      "bytes": 105838
+    },
+    {
+      "file": "content/article-gmo-tehnologiya-bezopasnost-i-mify-106ec7f3095f221d.json",
+      "sha256": "5781edbaf1149a3329f70f0d33856681f44eb1a2c997bdcb8353270f991328fc",
+      "bytes": 58653
+    },
+    {
+      "file": "content/article-gnev-i-agressiya-106ec7f3095f221d.json",
+      "sha256": "050661151ed6880dffe2442b1be747501e33300a778aaa5c1d5c805e74bc98f0",
+      "bytes": 150812
+    },
+    {
+      "file": "content/article-golod-tyaga-sryvy-i-uderzhanie-vesa-106ec7f3095f221d.json",
+      "sha256": "b347a0042dfaa714e661f88db313f54c3e67651e8da4cf9b2c7316b66cf9f6ed",
+      "bytes": 93452
+    },
+    {
+      "file": "content/article-gomeopatiya-i-reliz-aktivnye-preparaty-106ec7f3095f221d.json",
+      "sha256": "da2ceb154c21c5ec60bf1b1b6425ada429a6600d717e9d5bdb3d6a213b28a7b1",
+      "bytes": 61874
+    },
+    {
+      "file": "content/article-gormony-ves-i-granitsy-samodiagnostiki-106ec7f3095f221d.json",
+      "sha256": "a705f1fb54bbc7521347e1003a785f06b2c37df4b4f84bd50cc8f5745f4f11c7",
+      "bytes": 75457
+    },
+    {
+      "file": "content/article-gorod-derevnya-i-ustoychivost-sistem-snabzheniya-106ec7f3095f221d.json",
+      "sha256": "7de2a5e52894b138ae3f989431f6c63a47856105b553b08ff202a94dbf6fca3a",
+      "bytes": 82967
+    },
+    {
+      "file": "content/article-granitsy-lichnosti-106ec7f3095f221d.json",
+      "sha256": "52a01f77f2c05b1fc469cf3c9a64a0b85b0d05e7adc66dcbf942c494645df0a7",
+      "bytes": 99628
+    },
+    {
+      "file": "content/article-granitsy-razbora-publichnyh-istoriy-106ec7f3095f221d.json",
+      "sha256": "be0da17a3e42007455acf768e124a0eb854f6bbca16dbba999da6cbeffc9d917",
+      "bytes": 40532
+    },
+    {
+      "file": "content/article-dezinformatsiya-zagovory-i-informatsionnaya-gigiena-106ec7f3095f221d.json",
+      "sha256": "bbed84875593c0439a1b60257432c2dd1827b5fcb509414c91f1804417b4b4bb",
+      "bytes": 68376
+    },
+    {
+      "file": "content/article-deystvie-nesmotrya-na-strah-106ec7f3095f221d.json",
+      "sha256": "ae6cca9861be2566b2ccd11283302f68708923551947a988e8bb08be6416f974",
+      "bytes": 46468
+    },
+    {
+      "file": "content/article-dekompozitsiya-mikroservisov-i-granitsy-servisov-106ec7f3095f221d.json",
+      "sha256": "66b1314565c47d68ad66e9f2cf71c1a88524eb11a20efb398742baf01197e506",
+      "bytes": 81726
+    },
+    {
+      "file": "content/article-denezhnye-strahi-i-strah-uspeha-106ec7f3095f221d.json",
+      "sha256": "c9e06ff35281b9e5e77fef01531b968df6a496527711d8c9efbebd8ee9edff11",
+      "bytes": 95583
+    },
+    {
+      "file": "content/article-dengi-podarki-i-byt-v-pare-106ec7f3095f221d.json",
+      "sha256": "a2912d77798c3814c4b9c6140f9dffa51f8051793fb114e9f5fdde9400c3e511",
+      "bytes": 70613
+    },
+    {
+      "file": "content/article-depopulyatsiya-perenaselenie-i-vozrastnaya-struktura-106ec7f3095f221d.json",
+      "sha256": "74717acd0aa464b04635183d23ab9b1e65eac8febb69ed0873ea00c8943e7b99",
+      "bytes": 78104
+    },
+    {
+      "file": "content/article-depressiya-i-antidepressanty-106ec7f3095f221d.json",
+      "sha256": "782c680a2794af691cbcb60a103ab29672ef83459b2f592c1fd17b7983ecd952",
+      "bytes": 52070
+    },
+    {
+      "file": "content/article-derevnya-privyazannostey-vzroslye-rovesniki-i-profilaktika-106ec7f3095f221d.json",
+      "sha256": "e2813a146a47f0c3b0e371ac17a5444c7748f4c67931839e4a23bddfce4be3bb",
+      "bytes": 47681
+    },
+    {
+      "file": "content/article-family-children-106ec7f3095f221d.json",
+      "sha256": "c1462312f90782083098e8187398e442aa215c661e64969e9a7aeff050410599",
+      "bytes": 47599
+    },
+    {
+      "file": "content/article-detskaya-agressiya-bulling-i-dinamika-dominatsii-106ec7f3095f221d.json",
+      "sha256": "8019f74c8a50325e7d3f02e9920781eba92124c577059789b6ac1ca2c196f7fa",
+      "bytes": 46403
+    },
+    {
+      "file": "content/article-detskaya-privyazannost-shest-sposobov-blizosti-i-orientatsiya-106ec7f3095f221d.json",
+      "sha256": "3f18b06c42386a1e50b4c54864741ef64543a4c3a6528253386f2e0464a73dcf",
+      "bytes": 45477
+    },
+    {
+      "file": "content/article-defektivnost-styd-defectiveness-shame-106ec7f3095f221d.json",
+      "sha256": "5b3b267af0c9eb9b3986847f950ad6c5b65196feeb339eaffdc5dc2b6075ab68",
+      "bytes": 55065
+    },
+    {
+      "file": "content/article-defolt-sistema-mozga-106ec7f3095f221d.json",
+      "sha256": "682ed5e93625707140d656abff1cd8090373338036aafc870e74d8f62c5d0c65",
+      "bytes": 118689
+    },
+    {
+      "file": "content/article-diagnostika-bolezney-zhkt-analizy-uzi-endoskopiya-i-biopsiya-106ec7f3095f221d.json",
+      "sha256": "9f2d43e2b417cf07d4caf8c8cf199de6ddac9dd62d8423f3a07f7263d8d33c45",
+      "bytes": 75447
+    },
+    {
+      "file": "content/article-dialog-podderzhka-i-znaki-vnimaniya-106ec7f3095f221d.json",
+      "sha256": "6daa4fd4e9f2159360ba8f72053584edb878f2aff73070d73dc1e7a19befc7f8",
+      "bytes": 166082
+    },
+    {
+      "file": "content/article-diarreya-izmeneniya-stula-i-krasnye-flagi-106ec7f3095f221d.json",
+      "sha256": "801ec5409511758f85dc8a83303450ae2f106bfa0979b0974aecd5890079a2c0",
+      "bytes": 79637
+    },
+    {
+      "file": "content/article-divertikuly-i-anatomicheskie-osobennosti-kishechnika-106ec7f3095f221d.json",
+      "sha256": "2a83e1d5f66ba85f72d3220b37567cf43106936241feb6a6a274303ccfb62cc2",
+      "bytes": 52626
+    },
+    {
+      "file": "content/article-dissotsiatsiya-i-ptsr-106ec7f3095f221d.json",
+      "sha256": "30cbefd26cf03ebc246a31cd39eaa821e33403d307c6a13ea17cc61c30e4c398",
+      "bytes": 49572
+    },
+    {
+      "file": "content/article-distsiplina-bez-razryva-privyazannosti-106ec7f3095f221d.json",
+      "sha256": "7f7295f7c0294e5bdbac6a99e9a152864c5c47a6726288cbc6d2b8ed8de93e53",
+      "bytes": 48645
+    },
+    {
+      "file": "content/article-doverie-k-informatsii-ot-utverzhdeniya-k-proverke-106ec7f3095f221d.json",
+      "sha256": "5ac68af2387ebfafa59160c65be17c02ee009fd5825013bb097d2d860d7eed39",
+      "bytes": 62376
+    },
+    {
+      "file": "content/article-doverie-revnost-i-privatnost-106ec7f3095f221d.json",
+      "sha256": "d2147fc3a29f1d35c9cbe9e2d4df78f5adee63de79337884f7c60a64006bf8e0",
+      "bytes": 59061
+    },
+    {
+      "file": "content/article-dokazatelnaya-meditsina-i-risk-lozhnogo-lecheniya-106ec7f3095f221d.json",
+      "sha256": "bfdb7f6531042c922c17d064db4272f156e9a575abbb777508d3cfa1273635f6",
+      "bytes": 89566
+    },
+    {
+      "file": "content/article-dolgiy-brak-i-krizisy-soyuza-106ec7f3095f221d.json",
+      "sha256": "c2a0d6e064f3e078f73cb442edf931f1a14dc2d1b86807662cd3e433a465bea5",
+      "bytes": 136705
+    },
+    {
+      "file": "content/article-dolgoe-detstvo-opeka-samostoyatelnost-i-psihologicheskaya-ustoychivost-106ec7f3095f221d.json",
+      "sha256": "80d28d0e7746fee673c9236d54040bf20b1c940408bd708e4303cb8b8356691c",
+      "bytes": 61740
+    },
+    {
+      "file": "content/article-dolgoletie-biohaking-i-granitsy-vmeshatelstv-106ec7f3095f221d.json",
+      "sha256": "2cfd68882c6fb533de526ccb782ad597ca11eb65b984af2b339970fbda5b83cb",
+      "bytes": 63716
+    },
+    {
+      "file": "content/article-dolshe-zhivem-menshe-dvigaemsya-tsivilizatsionnyy-mismatch-106ec7f3095f221d.json",
+      "sha256": "20ad7c2c41f189f0e0e006596cefd06cffd3899e5e2f7c795dc3b1645b53e3e4",
+      "bytes": 82488
+    },
+    {
+      "file": "content/article-dofaminovaya-ekonomika-vnimaniya-i-distsiplina-106ec7f3095f221d.json",
+      "sha256": "5bdb05d9351de6d4c1f9da531d9fcd337b5a31b7f56b03c4b2730125bdc811ec",
+      "bytes": 81621
+    },
+    {
+      "file": "content/article-rannee-zaselenie-evropy-i-drevneyshie-tsivilizatsii-106ec7f3095f221d.json",
+      "sha256": "dde245359d4d08d4f1f7a27b933ae2b608fb7562f76e121f2a03e58034e2749d",
+      "bytes": 73596
+    },
+    {
+      "file": "content/article-zhara-vlazhnost-i-prirodnye-riski-regiona-106ec7f3095f221d.json",
+      "sha256": "c8f4c59fe4cd6c2f281eb4d3378dbc8580dfc77c2e524531f0fac5191c847fc5",
+      "bytes": 55247
+    },
+    {
+      "file": "content/article-zhelchnye-kamni-biliarnaya-bol-i-zabolevaniya-zhelchnogo-puzyrya-106ec7f3095f221d.json",
+      "sha256": "a76b93392936c409519d12896bfcfedcc26ef12f3ff591048dc8167236ddda86",
+      "bytes": 83340
+    },
+    {
+      "file": "content/article-zhiznennyy-tsikl-po-agile-waterfall-scrum-i-kanban-106ec7f3095f221d.json",
+      "sha256": "b307512be91c31b04f5e5e26e1762d5aecaff0710c5fb0775c4177974afd8143",
+      "bytes": 74907
+    },
+    {
+      "file": "content/article-zhizn-vo-vselennoy-i-paradoks-fermi-106ec7f3095f221d.json",
+      "sha256": "8b5d7dfcb6ce8c05c872fe7c6f590f067c7b40386849349a64f128e57ed71b7a",
+      "bytes": 55346
+    },
+    {
+      "file": "content/article-zhizn-posle-udaleniya-zhelchnogo-puzyrya-i-zhelchnyy-reflyuks-106ec7f3095f221d.json",
+      "sha256": "ef460361122700f0a3b755351b1aea6235306b35beca1aea0e62d3f258be4cec",
+      "bytes": 71998
+    },
+    {
+      "file": "content/article-zavisimost-nesposobnost-k-samostoyatelnosti-dependence-incompetence-106ec7f3095f221d.json",
+      "sha256": "239cc105b127995a58433be1177973ae97322a29704bad641713dd00ee69870c",
+      "bytes": 65685
+    },
+    {
+      "file": "content/article-zavist-spravedlivyy-mir-i-sravnenie-sebya-106ec7f3095f221d.json",
+      "sha256": "96e176c6c482b87bbd299a7c9e4243b5a0ec67955058ecc87ab7724f6c457933",
+      "bytes": 42351
+    },
+    {
+      "file": "content/article-zaedanie-stressa-i-pischevaya-zavisimost-106ec7f3095f221d.json",
+      "sha256": "6dd04cd11b7b39aeed40005abd6d19c0ec31c2511a6e263c31dc03273001ea7e",
+      "bytes": 47284
+    },
+    {
+      "file": "content/article-zapor-defekatsiya-i-tazovoe-dno-106ec7f3095f221d.json",
+      "sha256": "65bd292d0aafb02d57ea48098dda4d1efb77293cdcdc2ba68aa123d7eb5e1029",
+      "bytes": 70978
+    },
+    {
+      "file": "content/article-zaputannost-nedorazvitost-ya-enmeshment-undeveloped-self-106ec7f3095f221d.json",
+      "sha256": "7b1688a8a3c20019359d1ac5f2aad89017af75e15f83ecb683c2947f85578acb",
+      "bytes": 54259
+    },
+    {
+      "file": "content/article-zdorove-rost-dolgoletie-i-neravenstvo-v-proshlom-106ec7f3095f221d.json",
+      "sha256": "7f942755afb6439dd3a77868b93c4d7f2c2161165e0c7337ebe1068f7e61706b",
+      "bytes": 96895
+    },
+    {
+      "file": "content/article-zemledelie-udobreniya-i-produktivnost-hozyaystva-106ec7f3095f221d.json",
+      "sha256": "d2c500e3175cd801456322db8e299fa2d89337f3fb6073bdafae031c19125d50",
+      "bytes": 103278
+    },
+    {
+      "file": "content/article-zemlyanka-yurta-i-palatka-kak-adaptivnoe-zhilische-106ec7f3095f221d.json",
+      "sha256": "f85563431e8f0a5b4fb0e5d64caa6b9b6997c4a9ee03da5121df553ea5b69849",
+      "bytes": 86277
+    },
+    {
+      "file": "content/article-znakomstvo-svidanie-i-vybor-partnera-106ec7f3095f221d.json",
+      "sha256": "19761d3d63034deaf5d2c19da9794c0d18c2270eb03837886df1959366b41247",
+      "bytes": 212662
+    },
+    {
+      "file": "content/article-zrenie-zuby-kozha-i-dokazatelnyy-uhod-106ec7f3095f221d.json",
+      "sha256": "0fefd485b4d9b6331196eb87b1dea8a394b8c353ccd427eaa9dab3b859678979",
+      "bytes": 61452
+    },
+    {
+      "file": "content/article-ignorirovanie-alternativy-alternative-blindness-106ec7f3095f221d.json",
+      "sha256": "5807beb81a2c77bdd4b475dea6a0d6cf740d12db463562d79fd41302936e7bbe",
+      "bytes": 47281
+    },
+    {
+      "file": "content/article-identification-identity-106ec7f3095f221d.json",
+      "sha256": "d42509a87cdfdaa31dd6e99b8c51a49a2fc49bf486a0b6c740f6f5a2127853a2",
+      "bytes": 78819
+    },
+    {
+      "file": "content/article-ierarhiya-kommunikatsiya-i-bezopasnost-komandy-106ec7f3095f221d.json",
+      "sha256": "b959fe46d74cad4204e7e37571b82c5cc5fdcdd727d307d1b21a1d220f24236a",
+      "bytes": 39756
+    },
+    {
+      "file": "content/article-priznaki-i-prichiny-izmeny-106ec7f3095f221d.json",
+      "sha256": "ac4e292357b152dc83b5704d88824d55918a4259559c878453f1591b8df98ff1",
+      "bytes": 156714
+    },
+    {
+      "file": "content/article-illyuziya-kontrolya-illusion-of-control-106ec7f3095f221d.json",
+      "sha256": "f93e8e4e02eba8cfcc5ab1ad20e855061790b152502a1e9c0ba330816b3a2b36",
+      "bytes": 86063
+    },
+    {
+      "file": "content/article-imitatsiya-burnoy-deyatelnosti-action-bias-illusion-of-productivity-106ec7f3095f221d.json",
+      "sha256": "0d45963a924c3a4b6db6f934a48555200a86341efa3cd322cd006307ef0f154b",
+      "bytes": 39532
+    },
+    {
+      "file": "content/article-invalidatsiya-emotsiy-106ec7f3095f221d.json",
+      "sha256": "ee4e3d1a75d3563773039c31634e38928ed1802bd21a7dc5148488d186b79ef4",
+      "bytes": 54918
+    },
+    {
+      "file": "content/article-indeksy-plany-zaprosov-i-proizvoditelnost-bazy-dannyh-106ec7f3095f221d.json",
+      "sha256": "f436cd5ffd5ac89544d7d1a8425bce8f559a65e850dbaece051438cfe27948fc",
+      "bytes": 64061
+    },
+    {
+      "file": "content/article-indoevropeytsy-step-i-rekonstruktsiya-drevnih-migratsiy-106ec7f3095f221d.json",
+      "sha256": "1dc4dfdf8b1e89b5ff5bf44623daed92cd48faf552b99b421b55289479fc05df",
+      "bytes": 84766
+    },
+    {
+      "file": "content/article-inzheneriya-trebovaniy-ot-potrebnosti-do-trassiruemoy-spetsifikatsii-106ec7f3095f221d.json",
+      "sha256": "36b24e541a62f148603940448bb7cfaf9daa8b2d1e2017bb87e8f3445be430f7",
+      "bytes": 67749
+    },
+    {
+      "file": "content/article-instrumenty-sistemnogo-analitika-vybor-po-zadache-106ec7f3095f221d.json",
+      "sha256": "10fb0f5909082f3a0fd577c4ccb2bac85f8e3c562816d84e7d700f1e64e3716b",
+      "bytes": 56966
+    },
+    {
+      "file": "content/article-integratsionnye-stili-sinhronnyy-asinhronnyy-faylovyy-obmen-i-esb-106ec7f3095f221d.json",
+      "sha256": "e0b2bdc8db97a5e0a59a25b886a523d61cf7bbfd0bac816ab77547802c229588",
+      "bytes": 109188
+    },
+    {
+      "file": "content/article-intellekt-odarennost-i-prakticheskie-navyki-106ec7f3095f221d.json",
+      "sha256": "53812f4a0d1f4ef013f6756723b190b0d4cace3570b8534237d0a1f4d606c03a",
+      "bytes": 41683
+    },
+    {
+      "file": "content/article-introekty-106ec7f3095f221d.json",
+      "sha256": "5b1be2ea1c45073b103b30e669c0faea46837ece8f9b1024fc1d9d1db7996daa",
+      "bytes": 68621
+    },
+    {
+      "file": "content/article-infektsii-antibiotiki-i-pandemii-106ec7f3095f221d.json",
+      "sha256": "68ba264e113fd4a45d3696992f70997f061adbd4a83cb083f439936958eb7980",
+      "bytes": 65033
+    },
+    {
+      "file": "content/article-informatsionnaya-inflyatsiya-i-hrupkost-ponimaniya-106ec7f3095f221d.json",
+      "sha256": "0b65b56ede9be0acd107641e241eb47c2e7210bd39acb22cb0e0632f906ffa62",
+      "bytes": 66588
+    },
+    {
+      "file": "content/article-iskusstvennyy-intellekt-riski-i-vozmozhnosti-106ec7f3095f221d.json",
+      "sha256": "db0a591e84bf8f0dea656c341789b0e18867e1b9d82939bd6073e532e0327d5d",
+      "bytes": 115895
+    },
+    {
+      "file": "content/article-istorii-transformatsii-i-granitsy-lichnyh-keysov-106ec7f3095f221d.json",
+      "sha256": "d11f71547e199cc11b88aff2ff3693e5e2a4cd4c2d8080e5127f52b5c141059d",
+      "bytes": 266025
+    },
+    {
+      "file": "content/article-istochniki-i-ogranicheniya-etoy-bazy-106ec7f3095f221d.json",
+      "sha256": "a105c5a3d8abd8d8f0cb549b8374cbc6ac2f327ca2675217e16b3cfa9de6526a",
+      "bytes": 33022
+    },
+    {
+      "file": "content/article-kak-vybirat-psihologa-koucha-i-eksperta-106ec7f3095f221d.json",
+      "sha256": "af85cac92818c3c00317944ae16b8fe79ec45275be41134e04ebeea8bed25b7a",
+      "bytes": 46216
+    },
+    {
+      "file": "content/article-kak-dospeh-ostanavlivaet-udar-i-gde-konchaetsya-zaschita-106ec7f3095f221d.json",
+      "sha256": "d2ba97b8b7012292486a00c5db350b0e791b063d10856eb43fe52eea4aeff8f4",
+      "bytes": 86868
+    },
+    {
+      "file": "content/article-kak-izmenyat-nezhelatelnoe-povedenie-vosem-strategiy-106ec7f3095f221d.json",
+      "sha256": "32561d5727cdb7eaf3298998c3e021e1f2321624375196b59b94b6a92e461eed",
+      "bytes": 63112
+    },
+    {
+      "file": "content/article-kak-mozg-oshibaetsya-i-zaschischaet-ubezhdeniya-106ec7f3095f221d.json",
+      "sha256": "f6f985beede431acf1eae92374dbc9ef58cdfd4fc4bbdd660afb602bde3efcfe",
+      "bytes": 55754
+    },
+    {
+      "file": "content/article-kak-nachat-trenirovatsya-i-vybrat-trenera-106ec7f3095f221d.json",
+      "sha256": "870c1630ebd6d7d6e8280fbc4ea18d0c6ca659a4eb732af4d2fe331d81c8ce8e",
+      "bytes": 65132
+    },
+    {
+      "file": "content/article-kak-proveryat-alternativno-istoricheskie-versii-106ec7f3095f221d.json",
+      "sha256": "1549da345aa600a4b52ff3526b98c13931f0a91e4dbd4e6101a9245e801e7c51",
+      "bytes": 100441
+    },
+    {
+      "file": "content/article-kak-sravnivat-oruzhie-zadacha-distantsiya-material-i-podgotovka-106ec7f3095f221d.json",
+      "sha256": "07123025fa1692e4d0e3335478c7f9279b1ab9fd1460c63b7e8448aace1215e4",
+      "bytes": 95854
+    },
+    {
+      "file": "content/article-kamen-kirpich-derevo-i-logika-stroitelstva-106ec7f3095f221d.json",
+      "sha256": "50b16c055582a53de26c2399248c0f44ff9c054c3ff0331e658b5e6f423acb0b",
+      "bytes": 192220
+    },
+    {
+      "file": "content/article-karatelnost-punitiveness-106ec7f3095f221d.json",
+      "sha256": "fa35a615c41e2969e32b9e3cd19512037019055649e01995ec28f13bda30283c",
+      "bytes": 47286
+    },
+    {
+      "file": "content/article-kardio-silovye-i-tabata-106ec7f3095f221d.json",
+      "sha256": "317dc32593f8388e90358c0dc1801720da97badf215eb6aca303cd25db91d798",
+      "bytes": 69112
+    },
+    {
+      "file": "content/article-kachestvo-trebovaniy-dekompozitsiya-i-kriterii-priemki-106ec7f3095f221d.json",
+      "sha256": "a216e5e5420697de67c521d6760fbda109a8fae7c71e7b537fdfb69208b0916f",
+      "bytes": 60744
+    },
+    {
+      "file": "content/article-kishechnye-infektsii-i-parazity-106ec7f3095f221d.json",
+      "sha256": "2db1ee5f3d10bd303eb09402dda22222c8c593fbb9ed16fc07ed6e14673cdab6",
+      "bytes": 53477
+    },
+    {
+      "file": "content/article-kletchatka-frukty-zhiry-i-saharozameniteli-106ec7f3095f221d.json",
+      "sha256": "b21a42ee553820de570c01e5e54b17c641f7a669c45a405094822202a05f3acc",
+      "bytes": 91627
+    },
+    {
+      "file": "content/article-klonirovanie-organy-i-inzheneriya-zhizni-106ec7f3095f221d.json",
+      "sha256": "50061a96849d96c594740f6947d006d51e9900fcd41ecae995071e019fbc1378",
+      "bytes": 71653
+    },
+    {
+      "file": "content/article-knigi-po-shematerapii-106ec7f3095f221d.json",
+      "sha256": "70883015b68f6db7b5ad0f7362a6fc1f6e51a98b5d1d7600cbc1b9b5f3565e12",
+      "bytes": 12168
+    },
+    {
+      "file": "content/article-kognitivnye-lovushki-izmeneniya-tela-106ec7f3095f221d.json",
+      "sha256": "291ae117ec359d1018d78716a0d30d0873c0d6148f11a9f2f3a8d36a775437fb",
+      "bytes": 138955
+    },
+    {
+      "file": "content/article-kognitivnyy-dissonans-cognitive-dissonance-106ec7f3095f221d.json",
+      "sha256": "6f27f3eb2a3463728b2bce9eda7038389d13f01248ab1a71b388b4d9cf0bebb7",
+      "bytes": 40760
+    },
+    {
+      "file": "content/article-kozha-rastyazhki-myshechnaya-pamyat-i-tsellyulit-106ec7f3095f221d.json",
+      "sha256": "371563811b8c28baf80868bad0bca4bf7812422ef22429a90516347c12aff3db",
+      "bytes": 53634
+    },
+    {
+      "file": "content/article-kolyuchaya-provoloka-ogorazhivanie-voyna-i-kontrol-prostranstva-106ec7f3095f221d.json",
+      "sha256": "e718a9e342db78833c9b10a8043ede8f5ebd142d99215abf23cdc774eb77d2d5",
+      "bytes": 46126
+    },
+    {
+      "file": "content/article-kommunikatsiya-analitika-intervyu-fasilitatsiya-i-soglasovanie-106ec7f3095f221d.json",
+      "sha256": "e69d21faa0b65a95664fe742dcb475b742344f59e85dc52592e18e71031b8fdd",
+      "bytes": 65008
+    },
+    {
+      "file": "content/article-konflikt-i-vosstanovlenie-kontakta-106ec7f3095f221d.json",
+      "sha256": "f864777c273464a2dcb81912931d6114187dfcb833cdaa37528e04dce7113f80",
+      "bytes": 69248
+    },
+    {
+      "file": "content/article-koping-stili-i-koping-reaktsii-v-shematerapii-106ec7f3095f221d.json",
+      "sha256": "9e144cff6c873bbc8acb9eee2aefa0af83c0c727335546f6491a4b55497f75aa",
+      "bytes": 70867
+    },
+    {
+      "file": "content/article-kopya-topory-i-drevkovoe-oruzhie-massovoy-armii-106ec7f3095f221d.json",
+      "sha256": "fbdf6b479acbf7b6483e58f2113cc431bbde72ef71b6ccc577b1698991414b37",
+      "bytes": 110103
+    },
+    {
+      "file": "content/article-kochevye-armii-mobilnost-snabzhenie-i-predel-ekspansii-106ec7f3095f221d.json",
+      "sha256": "80a3f533f5fd385cfff59b125a02c88c470ee7c4185e3a1f6d49060ca17167d0",
+      "bytes": 122409
+    },
+    {
+      "file": "content/article-krepost-kak-sistema-mesta-garnizona-i-snabzheniya-106ec7f3095f221d.json",
+      "sha256": "eeabeeeda06b87d75a5399d11c7cbf69da7840b98db6188ed0227e0a609af324",
+      "bytes": 102504
+    },
+    {
+      "file": "content/article-kurenie-lovushka-odnogo-raza-i-son-106ec7f3095f221d.json",
+      "sha256": "522714517e39eb7f8324304de59044011e8f880bef7fd08023a369403531eb8c",
+      "bytes": 39058
+    },
+    {
+      "file": "content/article-keshirovanie-cdn-i-upravlenie-svezhestyu-dannyh-106ec7f3095f221d.json",
+      "sha256": "b88543c39d1e25a3af5a08092fd8dc6c67b577721abbdc0b55f6f0646cf9e29e",
+      "bytes": 90066
+    },
+    {
+      "file": "content/article-lednikovye-periody-klimaticheskie-tsikly-i-istoricheskie-krizisy-106ec7f3095f221d.json",
+      "sha256": "47c5512533d1bfe8248b788acd6fb0c3f3b5c03ce40d4b5fc73e877cda1b6ea5",
+      "bytes": 66004
+    },
+    {
+      "file": "content/article-lekarstva-i-bezopasnost-lecheniya-bolezney-zhkt-106ec7f3095f221d.json",
+      "sha256": "dd639694e3c5a193fd1542312948224e6db3ba59c78147334a73d097fb936f6c",
+      "bytes": 87815
+    },
+    {
+      "file": "content/article-len-kak-yarlyk-dlya-raznyh-prichin-106ec7f3095f221d.json",
+      "sha256": "bbcb93288118e5ef57b3eefd366a0629c79a777ca14436a4e76eb4755aeaf519",
+      "bytes": 35763
+    },
+    {
+      "file": "content/article-libido-vozbuzhdenie-i-raznitsa-zhelaniya-106ec7f3095f221d.json",
+      "sha256": "711967b26c725a37b96fbbb8820038d6407dcba8152576bed1b4c59a2639ee1b",
+      "bytes": 71392
+    },
+    {
+      "file": "content/article-limfaticheskie-oteki-i-dvizhenie-106ec7f3095f221d.json",
+      "sha256": "2533d7480333e67e60f20fef7a5330b769a0f5a13865c3e92945b52d1142b430",
+      "bytes": 46564
+    },
+    {
+      "file": "content/article-lipoliz-i-lokalnoe-zhiroszhiganie-106ec7f3095f221d.json",
+      "sha256": "719f60890421be183dbfbab664fa470a901f28c1056ab6c8fa4153d3e9e286e3",
+      "bytes": 54806
+    },
+    {
+      "file": "content/article-lichnost-agressiya-i-antisotsialnoe-povedenie-106ec7f3095f221d.json",
+      "sha256": "985ab3a8e63471b10985bf8bb27b2cd30d55c50cfc5d2d32845809e880530d68",
+      "bytes": 58616
+    },
+    {
+      "file": "content/article-lozhnaya-analogiya-106ec7f3095f221d.json",
+      "sha256": "a8aaa7745ffc49964cdc347a0d621170e0d7a954060dafd3964394265ba7c2c8",
+      "bytes": 29921
+    },
+    {
+      "file": "content/article-lozhnye-vospominaniya-i-effekt-mandely-106ec7f3095f221d.json",
+      "sha256": "f53da4b3bab342937a26ec19d96afc190b1242e0073c657c7b324d0dcfcf2b97",
+      "bytes": 47446
+    },
+    {
+      "file": "content/article-lokus-kontrolya-i-lichnaya-agentnost-106ec7f3095f221d.json",
+      "sha256": "b356a3360abf13b1ff1d605c0c32c77f925e1a567a22dc5f84c73199df0fc3ff",
+      "bytes": 40738
+    },
+    {
+      "file": "content/article-luk-moschnost-dalnost-temp-i-tsena-obucheniya-106ec7f3095f221d.json",
+      "sha256": "5e096c6abdbd9cd464414c8612b2f2cb1fc8f44726779007291a17e82c0b679f",
+      "bytes": 165436
+    },
+    {
+      "file": "content/article-lyubov-vlyublennost-zhelanie-i-privyazannost-106ec7f3095f221d.json",
+      "sha256": "0e875c03ff3ab493bb57f4fde5a513e6a3d9d59f1a593ec15c22a4a28d0a3e79",
+      "bytes": 147424
+    },
+    {
+      "file": "content/article-lyubopytstvo-igra-i-balans-novizny-106ec7f3095f221d.json",
+      "sha256": "ad1050540424bdc1206d86064c91b61fe2834e99f42508688d1eb96d6ced23d0",
+      "bytes": 69360
+    },
+    {
+      "file": "content/article-magicheskoe-myshlenie-i-vera-v-sverhestestvennoe-106ec7f3095f221d.json",
+      "sha256": "54ae407166f212247ad00442de70706e3a2a7c8e589e9de751e464404fb89376",
+      "bytes": 66525
+    },
+    {
+      "file": "content/article-makronutrienty-i-podbor-portsiy-106ec7f3095f221d.json",
+      "sha256": "8a3e55b731a7588e6ab2a7af54f5611b07913c0f4ad0ba7aa1a02c4ad206d3fd",
+      "bytes": 88957
+    },
+    {
+      "file": "content/article-manipulyatsii-i-obestsenivanie-v-pare-106ec7f3095f221d.json",
+      "sha256": "f067e0e707f466af322de38e0dbb900172c6fdc94669297e9acfca9187720130",
+      "bytes": 161289
+    },
+    {
+      "file": "content/article-masshtabirovanie-baz-dannyh-replikatsiya-sharding-i-sektsionirovanie-106ec7f3095f221d.json",
+      "sha256": "64b1dab370ea21b857c36b6c00f1184ba0f81b8348cbc98ab6871f59ced3749a",
+      "bytes": 64399
+    },
+    {
+      "file": "content/article-materialy-oruzhiya-i-vybor-instrumenta-dlya-zadachi-106ec7f3095f221d.json",
+      "sha256": "5b0fffe66c7ebe0f718c4c209982a813a4e2d6453977271249e0ea65c93de5b2",
+      "bytes": 95898
+    },
+    {
+      "file": "content/article-materialy-massa-i-podvizhnost-dospeha-106ec7f3095f221d.json",
+      "sha256": "92fc8945109603bf8ff5441148ab7547938459e177aded7b37bb6017312c02de",
+      "bytes": 122898
+    },
+    {
+      "file": "content/article-mentalnyy-immunitet-k-kognitivnym-iskazheniyam-106ec7f3095f221d.json",
+      "sha256": "83b51e77362155235c425e9b864596c1cbc4915828b0d3d4f8be32f69377e79d",
+      "bytes": 142387
+    },
+    {
+      "file": "content/article-mest-i-perenapravlenie-agressii-106ec7f3095f221d.json",
+      "sha256": "5f841e6211ea8dcf9bb6e3c649d7cd6ae992d2a7ee27192670f92ed5190e292c",
+      "bytes": 83679
+    },
+    {
+      "file": "content/article-mech-kak-sistema-geometriya-massa-balans-i-tehnika-106ec7f3095f221d.json",
+      "sha256": "3d6b7b3313c9d0078901f16e1979a3604c6a4bc4aa3427e19056f4d36f1b8fac",
+      "bytes": 98000
+    },
+    {
+      "file": "content/article-mikrobiom-i-kommunikatsiya-mikrobov-106ec7f3095f221d.json",
+      "sha256": "b818624d533d1e3086d2e99f2bcc4374527d0be606df35a63d8024b61a33dc7c",
+      "bytes": 92019
+    },
+    {
+      "file": "content/article-modelirovanie-dannyh-suschnosti-svyazi-klyuchi-i-er-model-106ec7f3095f221d.json",
+      "sha256": "85e4287bc77bd466453f9949313382b988678639bd3e5d37276f48122c295cfd",
+      "bytes": 63831
+    },
+    {
+      "file": "content/article-model-kak-instrument-vybor-notatsii-i-urovnya-detali-106ec7f3095f221d.json",
+      "sha256": "4ed8a20a09ab00ee8b8e44655a533d069be6b601309610ffc8c2e1e4164f3de5",
+      "bytes": 58462
+    },
+    {
+      "file": "content/article-mozg-i-neyrotehnologii-106ec7f3095f221d.json",
+      "sha256": "420e0a7464fcd8aac7b6576327a84802b783b3d992e77639e352314d7b21fd90",
+      "bytes": 59908
+    },
+    {
+      "file": "content/article-monolit-soa-i-mikroservisy-106ec7f3095f221d.json",
+      "sha256": "f16de177f8d859d7df89ca17147adab0458edf919d89112fa5fd96b7dc928a87",
+      "bytes": 90840
+    },
+    {
+      "file": "content/article-moralizatsiya-106ec7f3095f221d.json",
+      "sha256": "e769f75fd2552611905e9c92ebbfc7fd6fa357079f2a4410b62097226133f58f",
+      "bytes": 37980
+    },
+    {
+      "file": "content/article-morya-potopy-i-izmenenie-beregovoy-linii-106ec7f3095f221d.json",
+      "sha256": "0b7641c488fdc74f904ccbe14e2ced226721862407da658d562a2dea965bcaaa",
+      "bytes": 64510
+    },
+    {
+      "file": "content/article-nablyudaemost-logi-metriki-trassirovka-sre-i-incidenty-106ec7f3095f221d.json",
+      "sha256": "a06105fb219fe8959530ca5e6b38e128e560810751235b111d7bdeebf586fcc7",
+      "bytes": 97925
+    },
+    {
+      "file": "content/article-nadezhnost-soobscheniy-povtory-idempotentnost-deduplicatsiya-i-dlq-106ec7f3095f221d.json",
+      "sha256": "e148c5d985a7f6d1e0a0c9e8767550ec290c239ca13e0e6bc4cd6d57f311975f",
+      "bytes": 83104
+    },
+    {
+      "file": "content/article-nakopitelnoe-preimuschestvo-i-effekt-otnositelnogo-vozrasta-106ec7f3095f221d.json",
+      "sha256": "cd0380aa866ee5a5d023b59b21e0c9afcded5b2e26dfbd570e2114643b5056b9",
+      "bytes": 50180
+    },
+    {
+      "file": "content/article-nakopitelstvo-i-trudnost-rasstavaniya-s-veschami-106ec7f3095f221d.json",
+      "sha256": "98382570ce34481d810f00bed0a44b3323201e850029fe5627e0425a6e0d5813",
+      "bytes": 38196
+    },
+    {
+      "file": "content/article-nasilstvennye-otnosheniya-i-poterya-sebya-106ec7f3095f221d.json",
+      "sha256": "4c9eccaf56b440f6a7cdd752dce6cc27580180e84034e515234cbe6a3a165b58",
+      "bytes": 105845
+    },
+    {
+      "file": "content/article-nauka-v-igrah-i-massovoy-kulture-106ec7f3095f221d.json",
+      "sha256": "4e52d9e6b3c30835420779482d7859343967c98a525b567c1e4a1e5e27acf427",
+      "bytes": 87359
+    },
+    {
+      "file": "content/article-nauka-o-pornografii-i-seksualnom-povedenii-106ec7f3095f221d.json",
+      "sha256": "b0c8da432e6e8684b95c5f613352284e16e65c99a1f7b698eabb3814a3f0bb02",
+      "bytes": 48596
+    },
+    {
+      "file": "content/article-nauka-obucheniya-i-usvoenie-informatsii-106ec7f3095f221d.json",
+      "sha256": "7713ff3ca35dd1ceb20f0f6d53c486d98ff3af3d92627b3d58c45be5b932e4f9",
+      "bytes": 84661
+    },
+    {
+      "file": "content/article-nauka-ideologiya-i-obschestvennye-instituty-106ec7f3095f221d.json",
+      "sha256": "2a2da984f369104e4a05bcc72cedeaaf7fe0a03dd44b69b02f92005b82d0a612",
+      "bytes": 67995
+    },
+    {
+      "file": "content/article-nauchnaya-kommunikatsiya-i-populyarizatsiya-106ec7f3095f221d.json",
+      "sha256": "9caac27f8b67a32e39b1defdaaa5eb8f93fcc6bc26949c258301d194f5dcb87d",
+      "bytes": 58469
+    },
+    {
+      "file": "content/article-nauchnyy-metod-i-urovni-dokazatelstv-106ec7f3095f221d.json",
+      "sha256": "b9344cdf90043ec24ed745760d9dddfe6a89d7e560b05507ef2a65f38d79d71a",
+      "bytes": 78723
+    },
+    {
+      "file": "content/article-negativizm-pessimizm-negativity-pessimism-106ec7f3095f221d.json",
+      "sha256": "6f4c6bc38fd3da5d671b8f3f929f35f114b3422b41bf7fa7571cd28a22b8b924",
+      "bytes": 47835
+    },
+    {
+      "file": "content/article-negativnyy-uklon-smi-i-evristika-dostupnosti-106ec7f3095f221d.json",
+      "sha256": "91dbb385a5c96978d0e810487b6851cab43c01010bab352c91e9559ccf53d8d5",
+      "bytes": 68360
+    },
+    {
+      "file": "content/article-nedoverie-ozhidanie-zhestokogo-obrascheniya-mistrust-abuse-106ec7f3095f221d.json",
+      "sha256": "f7f023f3964e9c2cc539c1edd961796e8eea115f38a2b9b027134a53254fb8f7",
+      "bytes": 56122
+    },
+    {
+      "file": "content/article-nedostatok-samokontrolya-distsipliny-insufficient-self-control-self-discipline-106ec7f3095f221d.json",
+      "sha256": "194b804a10fb018d145d0cf626aaef36ce82adedddcc0a8170a66643db8489c3",
+      "bytes": 49317
+    },
+    {
+      "file": "content/article-gestalt-resentment-stoploss-106ec7f3095f221d.json",
+      "sha256": "6e8e4b53f3fb6a42c98f8326065f0f20b36dfaeb06819c49ed659142e94dd917",
+      "bytes": 65814
+    },
+    {
+      "file": "content/article-nelineynost-realnogo-mira-i-frustratsiya-lineynyh-ozhidaniy-106ec7f3095f221d.json",
+      "sha256": "fa1ce1652bb85e3ea71a0de3753aa661a5f0ea2789767f71f7e7e8d565db71cf",
+      "bytes": 45685
+    },
+    {
+      "file": "content/article-neoliticheskaya-revolyutsiya-proizvodstvo-pishchi-i-tsena-osedlosti-106ec7f3095f221d.json",
+      "sha256": "459232572d86d6ac30d2c55ae1f10364efa87217e92663b514854fc1b2f0c404",
+      "bytes": 91023
+    },
+    {
+      "file": "content/article-nepreklonnye-standarty-giperkritichnost-unrelenting-standards-hypercriticalness-106ec7f3095f221d.json",
+      "sha256": "6b01f2a4fced41c57b2becb8a66276f7ae8a686af7e3f5fe9e2592b6748bd2d4",
+      "bytes": 89312
+    },
+    {
+      "file": "content/article-nepriyatie-poteri-loss-aversion-106ec7f3095f221d.json",
+      "sha256": "81bd7e4b26a35071768f3cf4c3004c838abc347f364e35e65cdf820fdd5f27b3",
+      "bytes": 41314
+    },
+    {
+      "file": "content/article-nesoznatelnye-protsessy-i-usloviya-avtomaticheskih-oshibok-106ec7f3095f221d.json",
+      "sha256": "074ea5b6a61f17b7f1780c6d7fb6bf7609540b00710fc5b1af0d62b61fe09350",
+      "bytes": 45874
+    },
+    {
+      "file": "content/article-neudachlivost-failure-to-achieve-failure-106ec7f3095f221d.json",
+      "sha256": "5e4743714dc1eff5cfe7e682c2080595dad49b31794e481e293aea9170a4138a",
+      "bytes": 71072
+    },
+    {
+      "file": "content/article-nefunktsionalnye-trebovaniya-i-atributy-kachestva-106ec7f3095f221d.json",
+      "sha256": "751555234f6597d986b23867318f55cbbfdbfde6cd132b493a0b6d0fe3b509a7",
+      "bytes": 65859
+    },
+    {
+      "file": "content/article-nozh-i-korotkiy-klinok-distantsiya-konstruktsiya-i-ogranicheniya-106ec7f3095f221d.json",
+      "sha256": "13de5f26dd04c7ca6d10c46bc4b50f68beb4b02b97068cca0f169797493b23ce",
+      "bytes": 93467
+    },
+    {
+      "file": "content/article-normalizatsiya-i-denormalizatsiya-dannyh-106ec7f3095f221d.json",
+      "sha256": "3b42cd9d0cdeee6cbea8b265ebb70cabf31f0dd5b4f498412bf17f66f1a65a87",
+      "bytes": 71161
+    },
+    {
+      "file": "content/article-nostalgiya-i-idealizatsiya-proshlogo-106ec7f3095f221d.json",
+      "sha256": "4a064c3514f92e1c465dbe2406535e7062da3162ef4e71e14b20e18016aea67f",
+      "bytes": 43808
+    },
+    {
+      "file": "content/article-obestsenivanie-106ec7f3095f221d.json",
+      "sha256": "f0ef169bb5494ec0bb4c77d48b1fcbe131a41310900578d9844077b7ca99f4ca",
+      "bytes": 54613
+    },
+    {
+      "file": "content/article-oblachnye-modeli-i-raspredelenie-otvetstvennosti-106ec7f3095f221d.json",
+      "sha256": "e5f933ec1f52b84d72c3e5f48b51442b6aba82ecd1d6dfd580e34f1c4cb49ef0",
+      "bytes": 63042
+    },
+    {
+      "file": "content/article-obrabotka-kamnya-i-logistika-monumentalnogo-stroitelstva-106ec7f3095f221d.json",
+      "sha256": "158c9a1a58e21637750b0aab53d360f5be353fb2a2ea18099d7125548224db9a",
+      "bytes": 99943
+    },
+    {
+      "file": "content/article-obrazovatelnoe-neravenstvo-vremya-i-dostup-k-obucheniyu-106ec7f3095f221d.json",
+      "sha256": "7443ef802e310a5bdc12f7f8e5e04296e1bac3a4a3f226f1df20e9b05a01cf79",
+      "bytes": 38041
+    },
+    {
+      "file": "content/article-obsledovanie-predmetnoy-oblasti-i-granitsy-sistemy-106ec7f3095f221d.json",
+      "sha256": "7a7b60e3c3df64234caf40c21344c633aa331fc69fdc4f1a231ec117494d0f82",
+      "bytes": 67448
+    },
+    {
+      "file": "content/article-obshchestvo-riska-progress-globalnye-ugrozy-i-dumskrolling-106ec7f3095f221d.json",
+      "sha256": "0fa94a01532ec2de2203b9155f65d0dd319d8a755f3623cf4e3846ed09919aaa",
+      "bytes": 51840
+    },
+    {
+      "file": "content/article-ogranichennaya-ratsionalnost-i-resheniya-pri-neopredelennosti-106ec7f3095f221d.json",
+      "sha256": "766c1793819ff1c18293699c7c70789086503824c2554d7f24a4bff7f7e22b81",
+      "bytes": 73895
+    },
+    {
+      "file": "content/article-odinochestvo-i-zhizn-bez-partnera-106ec7f3095f221d.json",
+      "sha256": "9846ae363dbda3563151a96d739f4fad29c1444134be508a30a910dfb932b12a",
+      "bytes": 82209
+    },
+    {
+      "file": "content/article-odobrenie-orientirovannost-poisk-priznaniya-approval-seeking-recognition-seeking-106ec7f3095f221d.json",
+      "sha256": "e0ab22832f9b4254a4e63b3ca0c4a628e7cacd752fe990b7ff895302dff04545",
+      "bytes": 48943
+    },
+    {
+      "file": "content/article-ozhidanie-lineynosti-i-pazl-znaniy-106ec7f3095f221d.json",
+      "sha256": "0e103d328491ef4a02c80d190f5d3ce11a13be39578a7761fe98c2de231fb78b",
+      "bytes": 85500
+    },
+    {
+      "file": "content/article-okno-overtona-overton-window-106ec7f3095f221d.json",
+      "sha256": "653fa4071781e4a6c05747442577e06731ce8b4fe6634e031bb6058eccd69d90",
+      "bytes": 39472
+    },
+    {
+      "file": "content/article-okruzhenie-giperopeka-i-manipulyatsii-106ec7f3095f221d.json",
+      "sha256": "e17485c98a215cec7bb64b42f66ef7ec7653b0ba056e19a67c5cc1d663cd5a77",
+      "bytes": 36053
+    },
+    {
+      "file": "content/article-onkologiya-mehanizmy-i-sovremennaya-terapiya-106ec7f3095f221d.json",
+      "sha256": "bbdd6ef84f623f482689639976b2b5646b20241aeb8e98ced0186d1685d73d28",
+      "bytes": 56010
+    },
+    {
+      "file": "content/article-ono-ya-i-sverh-ya-106ec7f3095f221d.json",
+      "sha256": "e74761c6267774840a51eb4797edfe64f51837c5fdc047e0a6800000f80a07bb",
+      "bytes": 38329
+    },
+    {
+      "file": "content/article-oop-solid-grasp-i-shablony-proektirovaniya-106ec7f3095f221d.json",
+      "sha256": "8026b99617b11319b33dfec785bbec4ce0475fe9c5ff078996c7e3207a93d167",
+      "bytes": 72080
+    },
+    {
+      "file": "content/article-operatsii-na-organah-pischevareniya-i-vosstanovlenie-106ec7f3095f221d.json",
+      "sha256": "474c66cc994ae5b9f50b9894212f0c2b3b16a7ef0a3b78ba793f84b11692d2bf",
+      "bytes": 60119
+    },
+    {
+      "file": "content/article-oralnye-praktiki-i-poza-69-106ec7f3095f221d.json",
+      "sha256": "9d19e6f36c5daf332afb6ab788ea51908b40f9a1f34c1c90b53f01b9d2b1c0a3",
+      "bytes": 127913
+    },
+    {
+      "file": "content/article-orgazm-i-skvirting-106ec7f3095f221d.json",
+      "sha256": "579ccef247efad8904cbbd02167188684c9e68d52c96970efddcdf3ace60d758",
+      "bytes": 142748
+    },
+    {
+      "file": "content/article-orientatsiya-na-rovesnikov-kak-vzroslye-teryayut-veduschuyu-rol-106ec7f3095f221d.json",
+      "sha256": "7aa9e90ea4a1f70e866d5a36f2bd95e84f9af411c8789d0abd27ee3127c8e8a0",
+      "bytes": 66654
+    },
+    {
+      "file": "content/article-osadnaya-inzheneriya-steny-mashiny-i-artilleriya-106ec7f3095f221d.json",
+      "sha256": "94f7ecada1de90bc1afb017ba0fe58e3dc2fa7958f6ff4dcb0baad66bf8e9623",
+      "bytes": 70356
+    },
+    {
+      "file": "content/article-oteki-sol-i-vodnyy-balans-106ec7f3095f221d.json",
+      "sha256": "3810e227e14d6df1313c020e7edb335fcd71e561fc7e1f8c3c4abceb5caba5f3",
+      "bytes": 83022
+    },
+    {
+      "file": "content/article-otritsanie-i-vytesnenie-106ec7f3095f221d.json",
+      "sha256": "b02129776d10ac9eb68618f5a0b3fdc4f331cab9e91e22bad456eac3543a6768",
+      "bytes": 60684
+    },
+    {
+      "file": "content/article-otsenka-rabot-neopredelennost-i-upravlenie-srokami-106ec7f3095f221d.json",
+      "sha256": "098aa627d914d14380694e5e51f0cbd93eb0297cdc914c3635658da937387b70",
+      "bytes": 68429
+    },
+    {
+      "file": "content/article-ocheredi-i-brokery-soobscheniy-106ec7f3095f221d.json",
+      "sha256": "b06e91274865f48e016699e3242440d9943632c7eeef035ab2da34d9959bd8fa",
+      "bytes": 81107
+    },
+    {
+      "file": "content/article-oshibka-vyzhivshego-survivorship-bias-106ec7f3095f221d.json",
+      "sha256": "39ad23a6abb434b1be9441be45ed1e0df69e716bae10c9efd868a9a55b22953f",
+      "bytes": 41120
+    },
+    {
+      "file": "content/article-oshibka-proektsii-i-proklyatie-znaniya-106ec7f3095f221d.json",
+      "sha256": "6e4608092e5d8517c40faacb25e26341180496926e845671f79672c4ee04e0e7",
+      "bytes": 52482
+    },
+    {
+      "file": "content/article-oshibka-reprezentativnosti-representativeness-heuristic-106ec7f3095f221d.json",
+      "sha256": "cb6811673d13934085a51efb605ac4c67dd60e792fd8e60ba230d07652f7e787",
+      "bytes": 39228
+    },
+    {
+      "file": "content/article-oshibka-fokusirovki-focusing-illusion-106ec7f3095f221d.json",
+      "sha256": "4974026316a0ee82a891535da6d34ee20a3d1c229237f2b82b4dd2249db2da23",
+      "bytes": 45950
+    },
+    {
+      "file": "content/article-paradoks-dzhevonsa-effektivnost-i-potreblenie-106ec7f3095f221d.json",
+      "sha256": "15178a4a89c62565d8af8ae631a1d12cc942175f98fd368c208b7f23348c8424",
+      "bytes": 49941
+    },
+    {
+      "file": "content/article-paradoks-solomona-106ec7f3095f221d.json",
+      "sha256": "4beff0fb402b29983f06afcea9f0757e2d33e111d184f40fc27579a3e1b3e221",
+      "bytes": 39956
+    },
+    {
+      "file": "content/article-parazity-i-biologicheskie-manipulyatory-106ec7f3095f221d.json",
+      "sha256": "ed2b629fccacf80b5f1ac8fe7ccd6a3f867ecee305c9f9abf33af672f9de9cf4",
+      "bytes": 55127
+    },
+    {
+      "file": "content/article-pervaya-pomosch-i-granitsy-samolecheniya-106ec7f3095f221d.json",
+      "sha256": "7e7ff50eadf1ebee2828f50abf552d7efdc8cddb31076b903b663f009008f642",
+      "bytes": 42066
+    },
+    {
+      "file": "content/article-pervaya-chetvert-xxi-veka-dostizheniya-i-protivorechiya-106ec7f3095f221d.json",
+      "sha256": "1286918039ca8f5cc6f10286cc0671a9c97e9ff09956f727236762b2ae196300",
+      "bytes": 49336
+    },
+    {
+      "file": "content/article-materialy-metally-i-nezametnye-tehnologicheskie-revolyutsii-106ec7f3095f221d.json",
+      "sha256": "932dbdaa2941cf024bcbe976949a94d280c5dbbd3440ae821bbc893006959d58",
+      "bytes": 38999
+    },
+    {
+      "file": "content/article-perehodnye-sostoyaniya-mozga-utrom-i-posle-raboty-106ec7f3095f221d.json",
+      "sha256": "a145ee453cc7cc38fd6bba3655c56a12dd5f359082e6b5dd6781cc1c1ef5678b",
+      "bytes": 36995
+    },
+    {
+      "file": "content/article-pehota-kavaleriya-i-rol-boevoy-loshadi-106ec7f3095f221d.json",
+      "sha256": "daf53e5e85419923a2ac2ea3e5639748280e9c433d1f76ffc030875d642b296d",
+      "bytes": 107887
+    },
+    {
+      "file": "content/article-pechen-zhirovaya-bolezn-fibroz-i-analizy-106ec7f3095f221d.json",
+      "sha256": "80c6df38778cf67024550e9fe80404a1a3d8b2ba527b619782235db1d49885ec",
+      "bytes": 77610
+    },
+    {
+      "file": "content/article-pechen-pochki-pischevarenie-i-obmen-106ec7f3095f221d.json",
+      "sha256": "181af19a6f8b18fd9a01c36120c8abb1689a4f25db81ec4e72ffa1e3476cde9a",
+      "bytes": 52073
+    },
+    {
+      "file": "content/article-pitanie-dobavki-i-metabolicheskoe-zdorove-106ec7f3095f221d.json",
+      "sha256": "0980df26f37205aa0b60b03aa27d55bc3a8ffbe47bed749a89526854c14fc018",
+      "bytes": 72345
+    },
+    {
+      "file": "content/article-pishcha-zuby-gigiena-i-bytovye-riski-proshlogo-106ec7f3095f221d.json",
+      "sha256": "b7ed231afb445c4690f3b4a58ef754f26a237da6586342d081718001be910842",
+      "bytes": 111326
+    },
+    {
+      "file": "content/article-pischevarenie-u-detey-simptomy-pitanie-i-bezopasnost-106ec7f3095f221d.json",
+      "sha256": "0caaacc34f6d5b5b2f6c963894254f4a10d981316df825fbf856635953d89312",
+      "bytes": 45049
+    },
+    {
+      "file": "content/article-pischevaya-allergiya-neperenosimost-i-eliminatsiya-106ec7f3095f221d.json",
+      "sha256": "502c7144c1c42e6007d97b04c385ed64d85d8ff8a0e0032660e7e25548aa8062",
+      "bytes": 83398
+    },
+    {
+      "file": "content/article-plany-strah-provala-i-prezhdevremennaya-nagrada-106ec7f3095f221d.json",
+      "sha256": "0fcb3b792fa9f63dea0aa7209482836f0c90408120d6c489b79c444431db8798",
+      "bytes": 211441
+    },
+    {
+      "file": "content/article-povtornyy-soyuz-i-deti-ot-proshlyh-otnosheniy-106ec7f3095f221d.json",
+      "sha256": "07be1a40b5eac4e7781f82d18338f75596814c076706deb0e3f5af443b8459da",
+      "bytes": 57333
+    },
+    {
+      "file": "content/article-podagra-mochevaya-kislota-pristupy-i-dolgosrochnyy-kontrol-106ec7f3095f221d.json",
+      "sha256": "5779b96df3e37dd2d4b984bf20cf75cd613cfef47015e580338353599eb609b1",
+      "bytes": 79284
+    },
+    {
+      "file": "content/article-podzheludochnaya-zheleza-pankreatit-i-fermenty-106ec7f3095f221d.json",
+      "sha256": "797588150b5e8f09280c3b79041c65f6f96de974f819b72df6062f84b4d3bb5d",
+      "bytes": 74506
+    },
+    {
+      "file": "content/article-podkreplenie-v-sporte-rabote-i-obschestve-etika-vliyaniya-106ec7f3095f221d.json",
+      "sha256": "f23e2b0fb70b2d826495aa956b60b951ffc8d4da90ddb3c31085bf6c216e9a0c",
+      "bytes": 48596
+    },
+    {
+      "file": "content/article-podmena-ponyatiy-i-podmena-voprosa-question-substitution-106ec7f3095f221d.json",
+      "sha256": "456522be4d9c9db8fb3fd158b525d30f558f02062f6c6cdf045346f87467e2e1",
+      "bytes": 38641
+    },
+    {
+      "file": "content/article-podrostkovaya-seksualnost-privyazannost-i-zrelost-106ec7f3095f221d.json",
+      "sha256": "a1efd8ad0768521b09da508c70a8bec0c1384843ddc5085609024ee2909780ea",
+      "bytes": 44652
+    },
+    {
+      "file": "content/article-podchinenie-subjugation-106ec7f3095f221d.json",
+      "sha256": "74ae43511e862cd522d6af94d8d9de6f092c00ac800c8d64e0577104a1865637",
+      "bytes": 63613
+    },
+    {
+      "file": "content/article-poisk-i-indeksatsiya-v-elasticsearch-106ec7f3095f221d.json",
+      "sha256": "4a8167804fc030c62c018001a748e2fa0183b7e1b290fe8ce0769a56f9a6f2c8",
+      "bytes": 64007
+    },
+    {
+      "file": "content/article-pokinutost-nestabilnost-abandonment-instability-106ec7f3095f221d.json",
+      "sha256": "92390d01460a778bf194b91a6ae684d62d362db58a965c57c64457eebdb8c50d",
+      "bytes": 57948
+    },
+    {
+      "file": "content/article-polevaya-arheologiya-datirovka-i-kontekst-nahodki-106ec7f3095f221d.json",
+      "sha256": "c366657a3440525ecd0c9b8f0b7d85f09bbdca108e72b2db33ab351036f68c23",
+      "bytes": 108841
+    },
+    {
+      "file": "content/article-polozhitelnoe-podkreplenie-tayming-marker-i-rezhimy-106ec7f3095f221d.json",
+      "sha256": "02c7dd3e9507df58d67a0f9b5c3fbcf32cd255ed4b10ddaaaa0f78d73ea15a37",
+      "bytes": 56444
+    },
+    {
+      "file": "content/article-poroh-i-ranniy-ognestrel-kak-voennaya-sistema-106ec7f3095f221d.json",
+      "sha256": "54e5efdb221b02cc4baffb4b1bab425dcf94449c4f01ab8657a7138e01bee7c3",
+      "bytes": 81343
+    },
+    {
+      "file": "content/article-izmena-reshenie-i-vosstanovlenie-doveriya-106ec7f3095f221d.json",
+      "sha256": "064681703e386b0611684d95f56ebda01e084d3d1b6dc3fda3a0eb58bc102953",
+      "bytes": 63059
+    },
+    {
+      "file": "content/article-poslerodovyy-period-i-otnosheniya-v-seme-106ec7f3095f221d.json",
+      "sha256": "67e3557758f7d14eb396149894cc358d3d963304fd4b4f8b0cab612f88a6458c",
+      "bytes": 40173
+    },
+    {
+      "file": "content/article-postdostizhencheskaya-pustota-i-pereotsenka-tseley-106ec7f3095f221d.json",
+      "sha256": "46a9af30176f3c3ba2a3ce4c082aba7bec51d3789de6fb3524fe4af7db5da02c",
+      "bytes": 48656
+    },
+    {
+      "file": "content/article-posttravmaticheskiy-rost-bez-blagodarnosti-obidchiku-106ec7f3095f221d.json",
+      "sha256": "db40c0093d6cf92b77335b425ae17236db4f03e606dc6b9b5b0d9d8573a44af0",
+      "bytes": 138529
+    },
+    {
+      "file": "content/article-pohudenie-kak-ustoychivyy-obraz-zhizni-106ec7f3095f221d.json",
+      "sha256": "630de3a0dd8e75708dd5a578f2b29535985890f4153ad80a52dca24828176182",
+      "bytes": 374185
+    },
+    {
+      "file": "content/article-pochemu-zhile-dorozhaet-i-kak-megapolis-menyaet-prostranstvo-106ec7f3095f221d.json",
+      "sha256": "0625d50220fd4042d1a342de34871ff612f4c5a49658c0028ef392e0ad38fc9d",
+      "bytes": 106969
+    },
+    {
+      "file": "content/article-pochemu-znanie-ne-prevraschaetsya-v-deystvie-106ec7f3095f221d.json",
+      "sha256": "513490b3a496c9994334c7439946a70240e872ae83def8f490ec6e10197bf269",
+      "bytes": 38888
+    },
+    {
+      "file": "content/article-pochemu-snizhaetsya-rozhdaemost-i-kak-deystvuet-politika-106ec7f3095f221d.json",
+      "sha256": "457852eca39bdde8eb7336e59dbeca3c17da5b3f14fee4ebc81f3feb2857d2ed",
+      "bytes": 66772
+    },
+    {
+      "file": "content/article-pravo-na-privilegii-grandioznost-entitlement-grandiosity-106ec7f3095f221d.json",
+      "sha256": "bc97ff4d6f84831caa34aa6f5c4209e65a1d64d3612afa9f09b897e93121fe74",
+      "bytes": 49095
+    },
+    {
+      "file": "content/article-praktika-osoznannosti-ot-avtomatizma-k-vyboru-106ec7f3095f221d.json",
+      "sha256": "700678625ced56231147046f5790c7a5b5781364d2d0a5985f5f8339a44087d1",
+      "bytes": 70212
+    },
+    {
+      "file": "content/article-prascha-spetsialnye-strely-i-alternativnye-metatelnye-sistemy-106ec7f3095f221d.json",
+      "sha256": "5b93fbd2e326442f88bc0042f1906be24876b748dda9b0462c30760a65efc5a9",
+      "bytes": 98951
+    },
+    {
+      "file": "content/article-predatelstvo-ozhidaniya-i-obida-106ec7f3095f221d.json",
+      "sha256": "07fba0b7992f5f1dbbb07fabbeca92fa791b520854929f610bc519b3857f6d1d",
+      "bytes": 51955
+    },
+    {
+      "file": "content/article-confirmation-polarization-106ec7f3095f221d.json",
+      "sha256": "37deb6a5cc0b08259a0e1444acba675c620bb45da14ea3a0dd55abfee5f00b7d",
+      "bytes": 62300
+    },
+    {
+      "file": "content/article-prelyudiya-prikosnoveniya-i-potselui-106ec7f3095f221d.json",
+      "sha256": "f6fa2a064ab3f8c966a457382c0b7b807f329b31bd0b6ecaabfc8bd9af44f27a",
+      "bytes": 88656
+    },
+    {
+      "file": "content/article-privychka-vmesto-sily-voli-106ec7f3095f221d.json",
+      "sha256": "a42f8a028084340646e062460795b041857756cede10d9916239b5b8367324ca",
+      "bytes": 54260
+    },
+    {
+      "file": "content/article-privyazannost-k-uchitelyu-i-gotovnost-k-obucheniyu-106ec7f3095f221d.json",
+      "sha256": "9e3e8b2ddbc12bb25d0a120ce75cce506b633a45c6a340a091b89c093567ee24",
+      "bytes": 42297
+    },
+    {
+      "file": "content/article-priznanie-markirovka-i-prozhivanie-emotsiy-106ec7f3095f221d.json",
+      "sha256": "6bed317ed2376a8c7db258fe939eed1ee0c0a71803e1cea6b0ffde5cec9fc04b",
+      "bytes": 50181
+    },
+    {
+      "file": "content/article-primitivnaya-izolyatsiya-i-zaschitnoe-fantazirovanie-106ec7f3095f221d.json",
+      "sha256": "1f60469ea2d23ab64958da4373f7b051e56e98b1bf2a9b5417a026b642b33b4d",
+      "bytes": 40184
+    },
+    {
+      "file": "content/article-prinuzhdenie-rabstvo-prestupnost-i-revolyutsiya-106ec7f3095f221d.json",
+      "sha256": "6220688a2c207f4ca13ad085a01c8ce105026767a6ad6f7a189326ccd01a32ed",
+      "bytes": 111347
+    },
+    {
+      "file": "content/article-self-acceptance-love-106ec7f3095f221d.json",
+      "sha256": "e65cbd474060ab7b9689d0c29b48da7dd16524d311ed235d84fcc18bc0c2e4de",
+      "bytes": 174855
+    },
+    {
+      "file": "content/article-priony-i-prionnye-zabolevaniya-106ec7f3095f221d.json",
+      "sha256": "a7bd3f8c6359a12be31dc9eb42e471e88600afc80d614eea72fcd19942e3e26c",
+      "bytes": 50469
+    },
+    {
+      "file": "content/article-prioritetizatsiya-trebovaniy-kano-moscow-i-tsennost-106ec7f3095f221d.json",
+      "sha256": "7ee95debd3049d5e3db239dac00cc75dd869aea65867854ae9892255c3a401d4",
+      "bytes": 58153
+    },
+    {
+      "file": "content/article-produktovye-metriki-a-b-testy-i-granitsy-eksperimenta-106ec7f3095f221d.json",
+      "sha256": "c2c60775e0066d43de3715a03d4800b37b07515b29ac43ddcfe8e63e3713698a",
+      "bytes": 63468
+    },
+    {
+      "file": "content/article-produkty-prigotovlenie-i-pischevaya-bezopasnost-106ec7f3095f221d.json",
+      "sha256": "2c732435fe33bca94ee3f22bf79543167a5bd8d523233c2968af1cf47c35efac",
+      "bytes": 140698
+    },
+    {
+      "file": "content/article-projection-threat-106ec7f3095f221d.json",
+      "sha256": "fa1533e006a50061b6838cfad33b69139b9abed45e53b9f242d58bfbb894943a",
+      "bytes": 65675
+    },
+    {
+      "file": "content/article-proishozhdenie-voyny-strategiya-i-masshtab-nasiliya-106ec7f3095f221d.json",
+      "sha256": "71ec7f0c9741cd91bfb6dfefca2fa61fbf8815e9aee5b4511ead016857df68c4",
+      "bytes": 138379
+    },
+    {
+      "file": "content/article-proishozhdenie-i-granitsy-zhivogo-106ec7f3095f221d.json",
+      "sha256": "8eb6e90be3d9ec79212dfa62bec694f45ac2b4d9d4cc9725774cc5bc6ab5b0de",
+      "bytes": 55566
+    },
+    {
+      "file": "content/article-prokrastinatsiya-i-nachalo-deystviya-106ec7f3095f221d.json",
+      "sha256": "16dfa77dc30f7868892c0f3f52608aebedb269cfb4f5b3f74f5fe82fb400b448",
+      "bytes": 43005
+    },
+    {
+      "file": "content/article-proniknovenie-pozitsii-i-analnyy-kontakt-106ec7f3095f221d.json",
+      "sha256": "09fd7a55ec5cdaad2c8b8e69c46d0dd7cdbfc739b40d3b8f657f0331c817888a",
+      "bytes": 120759
+    },
+    {
+      "file": "content/article-protivlenie-i-lozhnaya-nezavisimost-rebenka-106ec7f3095f221d.json",
+      "sha256": "27c185c080385df007a84a16f501114abcddc648b68ffdd2286895dd4fc99d0f",
+      "bytes": 43263
+    },
+    {
+      "file": "content/article-professionalnaya-deformatsiya-i-perenos-navykov-106ec7f3095f221d.json",
+      "sha256": "4c5d820957e7442e5a16bc6117ff6afe80e8dd18818a3f6af4a1ff28c153d113",
+      "bytes": 51038
+    },
+    {
+      "file": "content/article-proshloe-i-sovremennost-bez-mifa-o-zolotom-veke-106ec7f3095f221d.json",
+      "sha256": "25f3be0949331c8836381eb263f2f9f88c2a57973fd6fb3568f63b925504dfa1",
+      "bytes": 98818
+    },
+    {
+      "file": "content/article-psihologicheskie-zaschity-i-vymyshlennaya-realnost-106ec7f3095f221d.json",
+      "sha256": "9abaf4bfb90ee08548e0f605e542c0e729a554853f1ba75d34df9a33a019c0dd",
+      "bytes": 77242
+    },
+    {
+      "file": "content/article-rabota-professiya-i-realnyy-uspeh-106ec7f3095f221d.json",
+      "sha256": "249164f2aa7f3063de199b62943c91df4f1a9b95dfdcaad15fa12894bd8ffa72",
+      "bytes": 102193
+    },
+    {
+      "file": "content/article-radiatsiya-yadernaya-energiya-i-realnyy-risk-106ec7f3095f221d.json",
+      "sha256": "26d5a2f43c774daa85c203f48a241dde389c7bba120db83d523aea6e07cfdfee",
+      "bytes": 46048
+    },
+    {
+      "file": "content/article-razdelnoe-myshlenie-106ec7f3095f221d.json",
+      "sha256": "0dfb0469adbc740f5fc80a804a2a59eb5958b8bd2718ebcd6f9f1a240731055b",
+      "bytes": 41833
+    },
+    {
+      "file": "content/article-razluka-rebenka-s-roditelem-106ec7f3095f221d.json",
+      "sha256": "2ecb4bc477c86f7052f6375b3fb22f3b03f2399a369c41168ca3aa90aa9b1eb4",
+      "bytes": 35573
+    },
+    {
+      "file": "content/article-razum-ekspansiya-i-dolgosrochnoe-buduschee-chelovechestva-106ec7f3095f221d.json",
+      "sha256": "12086de89e2167daab0b90ed6d86b591922da6daf65e95977cead4f4256f4ced",
+      "bytes": 91196
+    },
+    {
+      "file": "content/article-rak-zhkt-polipy-i-skrining-106ec7f3095f221d.json",
+      "sha256": "23d5faea2cab30dabf7f5eb1a3afe3199b3ad27cd00bfbe6723df21be611aaa5",
+      "bytes": 91305
+    },
+    {
+      "file": "content/article-raspredelennye-sistemy-vremya-cap-soglasovannost-i-tranzaktsii-106ec7f3095f221d.json",
+      "sha256": "087736ea70bba840e54c66e95cb3126b1416cbc8abe145068011dbecbc48a78d",
+      "bytes": 86004
+    },
+    {
+      "file": "content/article-rasstavanie-razvod-i-prozhivanie-poteri-106ec7f3095f221d.json",
+      "sha256": "8968be94af91396d341bdd149603f1c45f9e183db0c9087e76029d73042a8fe8",
+      "bytes": 77478
+    },
+    {
+      "file": "content/article-ratsion-snabzhenie-rybolovstvo-i-hranenie-pishchi-106ec7f3095f221d.json",
+      "sha256": "eb1aa4de8823c09bd6d46dd4d1c12ed42d4d743c847b89b01177823f1d55a706",
+      "bytes": 146403
+    },
+    {
+      "file": "content/article-ratsionalizatsiya-106ec7f3095f221d.json",
+      "sha256": "89a2aef73e605c99f56004959841c99b17417eb302ec7b0dd463aac48d748c53",
+      "bytes": 61266
+    },
+    {
+      "file": "content/article-reaktivnoe-obrazovanie-106ec7f3095f221d.json",
+      "sha256": "fd2a8e6c6f367e84505efb9573cabf8757c2688cd966ca35e7a9d6616efbd504",
+      "bytes": 54570
+    },
+    {
+      "file": "content/article-realizatsiya-uznavaemosti-pattern-recognition-in-expertise-106ec7f3095f221d.json",
+      "sha256": "9445e48bea3f4125ba398dde5295ba6ed3eb4ecf76d26844319bd3ded8f04a1b",
+      "bytes": 47979
+    },
+    {
+      "file": "content/article-rebenok-v-konflikte-roditeley-106ec7f3095f221d.json",
+      "sha256": "dc7ed696a9310dba30c7f0b2042e8737dd1c2ec8eb637010e2a50621becb07d9",
+      "bytes": 146551
+    },
+    {
+      "file": "content/article-reversiya-106ec7f3095f221d.json",
+      "sha256": "d29a7f93646773ae14976f1677533240eacedf1bf8ba866314c90a765f12ce39",
+      "bytes": 38650
+    },
+    {
+      "file": "content/article-regionalnye-klinki-sablya-shashka-akinak-machete-i-katar-106ec7f3095f221d.json",
+      "sha256": "3ecb174a84cc4ededbaa0ab3f8bca4435bb438e20d0efc11238a4b193ee54950",
+      "bytes": 140104
+    },
+    {
+      "file": "content/article-regression-splitting-106ec7f3095f221d.json",
+      "sha256": "e47c87c5abb1208e9ed30c5b432712f3c33a56f909eedd96416893a1ed0866d5",
+      "bytes": 59486
+    },
+    {
+      "file": "content/article-rezhim-pitaniya-i-metabolizm-106ec7f3095f221d.json",
+      "sha256": "adf6c12d4c10ff313ae00d6c831b5a2ae691a3b322ebd52f712139c440b541eb",
+      "bytes": 38662
+    },
+    {
+      "file": "content/article-rezhimy-pitaniya-i-populyarnye-diety-106ec7f3095f221d.json",
+      "sha256": "87b30c697dec2c57f4d092c8c7b1813cfd802068ee1876c1ba569de10d4a473e",
+      "bytes": 122507
+    },
+    {
+      "file": "content/article-religiya-moral-i-nauchnaya-kartina-mira-106ec7f3095f221d.json",
+      "sha256": "a6009ae58abaeada2862ad220a29d416b8b844a9cb2593bacb94cc2f50afc2a6",
+      "bytes": 59120
+    },
+    {
+      "file": "content/article-relizy-deploy-rollback-i-strategii-postavki-106ec7f3095f221d.json",
+      "sha256": "13a211cc471453b5181bde0c26901b579d12d62e1a65783d60a6b712604b088c",
+      "bytes": 65024
+    },
+    {
+      "file": "content/article-reproduktivnye-tehnologii-i-novaya-evgenika-106ec7f3095f221d.json",
+      "sha256": "d9ea389a2b2e7ab9389413463a102b6b40bb9d433b81bfcbdbf3ba20c942b639",
+      "bytes": 52567
+    },
+    {
+      "file": "content/article-resursnye-predely-i-vybor-tehnologicheskogo-puti-106ec7f3095f221d.json",
+      "sha256": "8f59445f1c1ed776805758efa4247e89484b1532277cdd76503c9295715f58e5",
+      "bytes": 55277
+    },
+    {
+      "file": "content/article-reflyuks-gerb-lfr-i-zdorove-pischevoda-106ec7f3095f221d.json",
+      "sha256": "5d958fdcc33e7acc64c3d3263902bb1245a31470ea1babc2dcd09476c62d6af6",
+      "bytes": 74783
+    },
+    {
+      "file": "content/article-roditelskiy-avtoritet-kak-funktsiya-privyazannosti-106ec7f3095f221d.json",
+      "sha256": "9e72127b37bfa5848f40bd5a66e14b3fa7d5cbf6a433b952104b9f77506ad90e",
+      "bytes": 44032
+    },
+    {
+      "file": "content/article-ruchnaya-stimulyatsiya-i-masturbatsiya-106ec7f3095f221d.json",
+      "sha256": "48ab341fb3289d46aa9402f1e2f65ca4248c4b4513e2a29e39034af80dac4488",
+      "bytes": 123805
+    },
+    {
+      "file": "content/article-samoobman-samosabotazh-i-otvetstvennost-106ec7f3095f221d.json",
+      "sha256": "1387655d6960c7d81a47bedbb8655098c71ddb7ecd5bcd58f2a7a890c229ce00",
+      "bytes": 120166
+    },
+    {
+      "file": "content/article-samootsenka-i-faktologicheskiy-uspeh-106ec7f3095f221d.json",
+      "sha256": "e16346306997115aa6f190d059c484e20b1c477a8d87b780ff348c6f31b482bf",
+      "bytes": 152871
+    },
+    {
+      "file": "content/article-samopozhertvovanie-self-sacrifice-106ec7f3095f221d.json",
+      "sha256": "b155777b7c607997c23eeff11060600fde8da1144f6ce1ec8447be572f2424f9",
+      "bytes": 52657
+    },
+    {
+      "file": "content/article-saharnyy-diabet-insulinorezistentnost-i-obraz-zhizni-106ec7f3095f221d.json",
+      "sha256": "a0b9400ae55dd906dcbfb42208381c1e7c74315fcc2299158a6285c9ff6695b6",
+      "bytes": 95481
+    },
+    {
+      "file": "content/article-sdvg-autizm-i-neyro-razvitie-106ec7f3095f221d.json",
+      "sha256": "c93451a6357629623b76e4661b9a4b57d9e89e903bc3fd78dc7950802fdb86be",
+      "bytes": 56349
+    },
+    {
+      "file": "content/article-seksualnye-predpochteniya-i-obratnaya-svyaz-106ec7f3095f221d.json",
+      "sha256": "8a983decc215ec52d56968bedd4fb359e888da8a32ecf3113863040b25a5cbdf",
+      "bytes": 186832
+    },
+    {
+      "file": "content/article-setevaya-osnova-osi-tcp-ip-dns-proxy-i-balansirovka-106ec7f3095f221d.json",
+      "sha256": "adf6f8705a86b26b3f42ed21a32c4a814686a9489359864d81b9d790f0d630b3",
+      "bytes": 100432
+    },
+    {
+      "file": "content/article-silovaya-programma-obem-intensivnost-i-progressiya-106ec7f3095f221d.json",
+      "sha256": "cf38a202c31d82913cfaa204af578c832066a16a872db05c12ed1b8336afa38b",
+      "bytes": 82166
+    },
+    {
+      "file": "content/article-sindrom-vyuchennoy-bespomoschnosti-learned-helplessness-106ec7f3095f221d.json",
+      "sha256": "a17a4e6ce38551b1ca931a74fd95a0f34b40c20982b7b15e9a20eedd9b5c8ccf",
+      "bytes": 50996
+    },
+    {
+      "file": "content/article-sindrom-samozvantsa-106ec7f3095f221d.json",
+      "sha256": "16cad035ec8f7d80e2efef087fc83e64dc416415e0e0ee2ee5613d17a4366789",
+      "bytes": 40492
+    },
+    {
+      "file": "content/article-system-one-stress-106ec7f3095f221d.json",
+      "sha256": "ad9ec58a5d6bd0c4208fabbfca843ebe2bde6809b25e466d8ac67f1302920c81",
+      "bytes": 57004
+    },
+    {
+      "file": "content/article-sistemnaya-hrupkost-i-stsenarii-obschestvennogo-upadka-106ec7f3095f221d.json",
+      "sha256": "f6624cbbc344c45954e942d8e6b69c1dc11f06b4f8100028e9139e5a6a9d4a5d",
+      "bytes": 108013
+    },
+    {
+      "file": "content/article-sistemnyy-analitik-rol-granitsy-i-zhiznennyy-tsikl-resheniya-106ec7f3095f221d.json",
+      "sha256": "56c90fe725999f27696b3ed6635d8db7073ae229376d7d3d6d5a4ce7b0c95099",
+      "bytes": 69472
+    },
+    {
+      "file": "content/article-slavyanskie-istoricheskie-mify-i-poddelnye-istochniki-106ec7f3095f221d.json",
+      "sha256": "8e443537068d2e899e5154c06b6478a5a3b5bca73ef28c2e5b7f68dcf45373db",
+      "bytes": 48692
+    },
+    {
+      "file": "content/article-snizhenie-zhelaniya-rutina-i-chastota-seksa-106ec7f3095f221d.json",
+      "sha256": "3d7d149b8c5bcd4302c01d6dc7d233e84ee2554d1665ab33709794073f826455",
+      "bytes": 135247
+    },
+    {
+      "file": "content/article-sobytiynaya-arhitektura-cqrs-i-event-sourcing-106ec7f3095f221d.json",
+      "sha256": "169ed79c13841a4aa435346bd6cc369b1b52fa9ede05c2db621abb3c17f9bf34",
+      "bytes": 67864
+    },
+    {
+      "file": "content/article-sovest-vina-styd-i-raskayanie-106ec7f3095f221d.json",
+      "sha256": "ce0203ef80899658d706d84e150acc6b37243bb0c80d263198614087c53eff23",
+      "bytes": 35534
+    },
+    {
+      "file": "content/article-soglasie-i-telesnye-granitsy-106ec7f3095f221d.json",
+      "sha256": "46c4987e733c5ba02c757362abd6a3c6ba32159bbdbdf0b3b202e8e287e0bbe5",
+      "bytes": 51768
+    },
+    {
+      "file": "content/article-sozavisimost-i-spasatelstvo-106ec7f3095f221d.json",
+      "sha256": "1bf230d5a1de3cff68ce6190b1e1859fc87af991d494a83b07c7e279b350c1f7",
+      "bytes": 53044
+    },
+    {
+      "file": "content/article-soznanie-pamyat-voobrazhenie-i-emotsii-106ec7f3095f221d.json",
+      "sha256": "0e38f45fa17b3b92af36f880aee790daa2d380b9db16774430a8db1f80cb9391",
+      "bytes": 63960
+    },
+    {
+      "file": "content/article-somatizatsiya-106ec7f3095f221d.json",
+      "sha256": "7d3a05f8076668b1bf15118670c7852afad22f9eba826d3d7e01bd3003fbca61",
+      "bytes": 39381
+    },
+    {
+      "file": "content/article-son-kurenie-i-povsednevnye-riski-106ec7f3095f221d.json",
+      "sha256": "f7280ac7ba3f46ad393ff5e35908f03c10a7d9dec9fcdffca57ae9b63acc674b",
+      "bytes": 68062
+    },
+    {
+      "file": "content/article-sosloviya-tituly-i-preobrazovanie-feodalnogo-obschestva-106ec7f3095f221d.json",
+      "sha256": "a0de10d0d34fd9e21b395d76a83178f9e310e24af7f18e4fcf7117fb98eb4abb",
+      "bytes": 70856
+    },
+    {
+      "file": "content/article-sostav-lishnego-vesa-i-skorost-snizheniya-106ec7f3095f221d.json",
+      "sha256": "4d76b1806610bee207bd6ecf09c4758b97166891c9c28eebab782a6c4a4412b8",
+      "bytes": 40339
+    },
+    {
+      "file": "content/article-sosudy-davlenie-i-bezopasnye-trenirovki-106ec7f3095f221d.json",
+      "sha256": "c8eb3cbf0f367113b96047367afc53f5a6932a2a5e5e51dd43c52adc804494fd",
+      "bytes": 55811
+    },
+    {
+      "file": "content/article-sotsialnaya-izolyatsiya-otchuzhdenie-social-isolation-alienation-106ec7f3095f221d.json",
+      "sha256": "ca5ad31c8a7e2096cab10526e0f04fa6a3cbe7f4641b71f7286e5a7435ac362c",
+      "bytes": 54930
+    },
+    {
+      "file": "content/article-sotsialnye-ritualy-malaya-beseda-prikosnovenie-i-deeskalatsiya-106ec7f3095f221d.json",
+      "sha256": "ecb05cca15e425814fc88341735163eec780ba1360294977525bd995650f9da9",
+      "bytes": 69018
+    },
+    {
+      "file": "content/article-sotsialnye-svyazi-i-zdorove-106ec7f3095f221d.json",
+      "sha256": "1222849230c52d930c430a56e064bf77f02fe4f2270461ba5f8d78c4749a0a0c",
+      "bytes": 35853
+    },
+    {
+      "file": "content/article-sotsialnye-seti-sravnenie-i-psihicheskoe-blagopoluchie-106ec7f3095f221d.json",
+      "sha256": "64763c4facdaad9d0228ab93b0fc0f5c5f80bb5a617eacbf0b546842403d2416",
+      "bytes": 43781
+    },
+    {
+      "file": "content/article-spetsifichnost-trenirovki-mozga-106ec7f3095f221d.json",
+      "sha256": "60fd4a561d04c43700dde74266b8ed9f8fadcefae8056ee79ecc21f3499ced41",
+      "bytes": 55353
+    },
+    {
+      "file": "content/article-spletni-reputatsiya-i-sotsialnaya-informatsiya-106ec7f3095f221d.json",
+      "sha256": "fe6af3f9afd73e1773cb0b1d08d85f81685436c009f2dea79e5cfe270887a23a",
+      "bytes": 39024
+    },
+    {
+      "file": "content/article-spor-diskussiya-i-samootsenka-106ec7f3095f221d.json",
+      "sha256": "802678e84aea70c050511d787f02340d51571a9d32dce20844fa5283bb9d86c6",
+      "bytes": 33885
+    },
+    {
+      "file": "content/article-srednee-normalnoe-mean-normal-106ec7f3095f221d.json",
+      "sha256": "ff1d4cadaff4a94beea778cd7119cc922d18be7cd5ef76075140b226d149b9b9",
+      "bytes": 62771
+    },
+    {
+      "file": "content/article-srk-os-kishechnik-mozg-i-funktsionalnaya-bol-106ec7f3095f221d.json",
+      "sha256": "e5e11f5ea8696641e1a01918d75f06f96537101554e03b5c7dd27031568d13ff",
+      "bytes": 49804
+    },
+    {
+      "file": "content/article-step-les-i-geologiya-istoricheskih-landshaftov-106ec7f3095f221d.json",
+      "sha256": "aa8be427c651dac7760b5dcc93b45704a03cf3b8862a6e772c02e5e233423795",
+      "bytes": 83982
+    },
+    {
+      "file": "content/article-stereotipizatsiya-stereotyping-106ec7f3095f221d.json",
+      "sha256": "87f892b582359a8814b19a1cfc4d0347d446609bae353b28e8e7ddeecfb041c5",
+      "bytes": 56655
+    },
+    {
+      "file": "content/article-stimulnyy-kontrol-signaly-i-povedencheskie-tsepochki-106ec7f3095f221d.json",
+      "sha256": "b714e7ba7cfcbf1d0b1378bd6179b8c56a4bfff9164596d526d28b1b21fa22c3",
+      "bytes": 53238
+    },
+    {
+      "file": "content/article-strah-otverzheniya-i-zavisimost-ot-chuzhogo-mneniya-106ec7f3095f221d.json",
+      "sha256": "cc59a098506113d371ef17f90258562856b601e1b17f283d272210f5ccf3548f",
+      "bytes": 54417
+    },
+    {
+      "file": "content/article-sublimatsiya-106ec7f3095f221d.json",
+      "sha256": "b6dead0f21ab241ecb6f4b7754c77d08dddf029cfe3a7daa5757e2d3efa131fc",
+      "bytes": 45222
+    },
+    {
+      "file": "content/article-sustavy-spina-i-vozvraschenie-k-nagruzke-106ec7f3095f221d.json",
+      "sha256": "637ac037eb3e65f3723e72294df9ca288c7b3ac3b80334f02292ed7bfd9b8c2b",
+      "bytes": 87906
+    },
+    {
+      "file": "content/article-shematerapiya-dzheffri-yanga-106ec7f3095f221d.json",
+      "sha256": "c336836f06953c709ba83ce6a70d8cd3f4fa28619d69ecd98d1dbc7469d8c2f0",
+      "bytes": 114314
+    },
+    {
+      "file": "content/article-schaste-resurs-i-zhivoy-interes-106ec7f3095f221d.json",
+      "sha256": "9b36012088fda3b3d6ed49293ea8821792fcabb91af8a45a5990f49f34e6c010",
+      "bytes": 42881
+    },
+    {
+      "file": "content/article-tazovoe-dno-gormony-i-fiziologiya-106ec7f3095f221d.json",
+      "sha256": "d70617a49f36e8cee4cafc7b020e39ec1b02f559bec9ef42fea371ae32a1a3a2",
+      "bytes": 180543
+    },
+    {
+      "file": "content/article-telesnyy-styd-i-seksualnaya-otkrytost-106ec7f3095f221d.json",
+      "sha256": "21d8e1759982005281d1427dc7815d2b486a44fa56a1c2a4f55d49582bf9739c",
+      "bytes": 40712
+    },
+    {
+      "file": "content/article-testirovanie-i-kachestvo-ot-trebovaniya-do-regressii-106ec7f3095f221d.json",
+      "sha256": "df4a17b3e219ec704ca9ce5d2f2dadacdc0c8b194aac5370228ec791ec40b7ad",
+      "bytes": 80255
+    },
+    {
+      "file": "content/article-tehnika-uprazhneniy-i-bezopasnost-dvizheniya-106ec7f3095f221d.json",
+      "sha256": "f01f15bba43dadd4772caba8829fa915835a4db2318c79d3c9b548b97c91c887",
+      "bytes": 57353
+    },
+    {
+      "file": "content/article-tranzaktsii-acid-urovni-izolyatsii-mvcc-i-blokirovki-106ec7f3095f221d.json",
+      "sha256": "56bf783d4444c789106df3b7bbf907ce78b837b98c73651af93d90cd9e78fdea",
+      "bytes": 85864
+    },
+    {
+      "file": "content/article-transgumanizm-kriotehnologii-i-buduschee-cheloveka-106ec7f3095f221d.json",
+      "sha256": "da55c0840c34dc2fb96e27f24a2571a0678a27f448a54484b6a56cc9580fa542",
+      "bytes": 46542
+    },
+    {
+      "file": "content/article-traty-dolgi-nakopleniya-i-finansovye-tseli-106ec7f3095f221d.json",
+      "sha256": "5aab7b1dba4f6da61749138e9139112c041e13249ad61c1b399f496e279f8212",
+      "bytes": 56632
+    },
+    {
+      "file": "content/article-trevoga-strah-i-deystvie-v-nastoyaschem-106ec7f3095f221d.json",
+      "sha256": "787fd5df778a1169e1489cb1c9cd2883d446c7aa553867a4143d3dfd97c17a13",
+      "bytes": 76374
+    },
+    {
+      "file": "content/article-trud-proizvoditelnost-dengi-i-raspredelenie-bogatstva-106ec7f3095f221d.json",
+      "sha256": "08ced1140f414f9a4eb99352cc4a946aa7a9e6e6c4686d70be47c40c7142f16a",
+      "bytes": 114263
+    },
+    {
+      "file": "content/article-trudnosti-dolgosrochnoy-napravlennosti-106ec7f3095f221d.json",
+      "sha256": "7953baf9cfe24af7de5fa0189b9d8d4ce4bffd5bc53dbf3884c3ba2666716568",
+      "bytes": 32868
+    },
+    {
+      "file": "content/article-tyazhelyy-trud-fizicheskaya-sila-i-defitsit-energii-106ec7f3095f221d.json",
+      "sha256": "4fc08b2b6dec3ec93d6f1b628a11ec606a844ded803ebc9b922b5e75f020011e",
+      "bytes": 69725
+    },
+    {
+      "file": "content/article-ugrozy-veb-api-i-bezopasnost-po-proektirovaniyu-106ec7f3095f221d.json",
+      "sha256": "b79edad6785e2e780b840a3d396b774412821a4afc13ad16b48420c7811359ae",
+      "bytes": 86970
+    },
+    {
+      "file": "content/article-udarnoe-tsepnoe-i-neobychnoe-oruzhie-predely-effektivnosti-106ec7f3095f221d.json",
+      "sha256": "30e8a637a1be48f082adea91f540b9878f09a7ddf966baad4a927c21753b5355",
+      "bytes": 107623
+    },
+    {
+      "file": "content/article-ukrytie-bezopasnyy-dom-i-geografiya-sistemnogo-krizisa-106ec7f3095f221d.json",
+      "sha256": "c717290c40c88e3de4a8bf221df8abb0b77e735458d490a45161338c6c373a21",
+      "bytes": 126762
+    },
+    {
+      "file": "content/article-upravlenie-mobilnymi-ustroystvami-i-korporativnyy-dostup-106ec7f3095f221d.json",
+      "sha256": "283a9f625d5c415546270f6ca8eea7c17c73e221f3ac3e2a39bdc6f9b95dc6e2",
+      "bytes": 81829
+    },
+    {
+      "file": "content/article-usloviya-vozniknoveniya-tsivilizatsii-i-alternativnye-puti-106ec7f3095f221d.json",
+      "sha256": "2f78d8d24f9f3709b1ccba1fa84ec52c8887035d5749c52ce87e7df6ba3c0e0c",
+      "bytes": 84735
+    },
+    {
+      "file": "content/article-uyazvimost-k-opasnosti-bolezni-vulnerability-to-harm-or-illness-106ec7f3095f221d.json",
+      "sha256": "90d408ebeed302666ffa6c44cd0c48cda0f1c1e19a0a1773e01692ec671ead89",
+      "bytes": 78173
+    },
+    {
+      "file": "content/article-uyazvimost-slabost-i-emotsionalnaya-blizost-106ec7f3095f221d.json",
+      "sha256": "1b25f59110a083066e37b0440994568696fabd81972c83ed180d5cfda2218d10",
+      "bytes": 123241
+    },
+    {
+      "file": "content/article-fantazii-seksting-eksperimenty-i-igrushki-106ec7f3095f221d.json",
+      "sha256": "3954bbe4f7f0715a4a814a786501daf0f4110648e0d56b089c9c32fe191e28b7",
+      "bytes": 131630
+    },
+    {
+      "file": "content/article-fenomen-baadera-maynhof-frequency-illusion-baader-meinhof-phenomenon-106ec7f3095f221d.json",
+      "sha256": "374cf2d84136f2cd4548e4c989373cf2cb4a367b4a6180871fab4640b437db04",
+      "bytes": 40410
+    },
+    {
+      "file": "content/article-fehtovanie-dueli-i-turniry-kak-tehnika-i-institut-106ec7f3095f221d.json",
+      "sha256": "a527bea1caf46c568944503377fc3070a0a23c167d8eb98cb298b713f9764ca6",
+      "bytes": 86362
+    },
+    {
+      "file": "content/article-freyming-framing-effect-106ec7f3095f221d.json",
+      "sha256": "7f34f8bc2eaa84e23f8f8aad62b8473844d8aad9a22c6857ec8ab4b32591cef0",
+      "bytes": 40155
+    },
+    {
+      "file": "content/article-frustratsiya-i-smeschennaya-agressiya-106ec7f3095f221d.json",
+      "sha256": "6640dc435e47b2397480a3355744e605b76bd9660c647be0ce9d2fbd9197f952",
+      "bytes": 66432
+    },
+    {
+      "file": "content/article-fundamentalnaya-oshibka-atributsii-106ec7f3095f221d.json",
+      "sha256": "c68e9f51152e37c14b75e55c42009d0694b27d00fe29028cc8ed3e8a6323f207",
+      "bytes": 49524
+    },
+    {
+      "file": "content/article-funktsionalnaya-dispepsiya-gastroparez-i-motorika-zheludka-106ec7f3095f221d.json",
+      "sha256": "175700160cce69d1559870acc21516ebe6b6e0420bc4297bc00b9e2d20248ac3",
+      "bytes": 60587
+    },
+    {
+      "file": "content/article-holesterin-lipidy-i-serdechno-sosudistyy-risk-106ec7f3095f221d.json",
+      "sha256": "e53d2680b7a69b0465ab09f33a9d43375f512383bbf0fb120c428bfacbd3ac94",
+      "bytes": 57328
+    },
+    {
+      "file": "content/article-tsirroz-portalnaya-gipertenziya-i-pechenochnaya-nedostatochnost-106ec7f3095f221d.json",
+      "sha256": "f5a89988a19b97fe6dbb363a712482edd6992aff05cc2b5fccc89f64ab1070fe",
+      "bytes": 51510
+    },
+    {
+      "file": "content/article-tsifrovye-finansy-i-risk-bezopasnost-106ec7f3095f221d.json",
+      "sha256": "e52aaea4b4e50af72bf6534884ef0926ea4fe4a2ed7a8c3051fcf4da1ffa71cf",
+      "bytes": 43648
+    },
+    {
+      "file": "content/article-chelovek-i-drugie-zhivotnye-odomashnivanie-antropomorfizm-i-etika-106ec7f3095f221d.json",
+      "sha256": "d3d1322131951b91017eb7f93516b892c6d67355e5949bcd0166f26c2d0af6a7",
+      "bytes": 71861
+    },
+    {
+      "file": "content/article-chelovek-kak-biologicheskiy-vid-evolyutsionnaya-optika-106ec7f3095f221d.json",
+      "sha256": "9e76bafd51cc67f084c11a12fea8f3fd574103152c5a0b6299f4830b61d6e629",
+      "bytes": 70489
+    },
+    {
+      "file": "content/article-chetvertaya-promyshlennaya-revolyutsiya-avtomatizatsiya-i-trud-106ec7f3095f221d.json",
+      "sha256": "3d9b1b5d040fbf7e0d3c0d838f3cf22a21ddfb01ea2284ed73ae80e4c42cb724",
+      "bytes": 64782
+    },
+    {
+      "file": "content/article-chuvstvo-nepolnotsennosti-kompensatsiya-i-giperkompensatsiya-106ec7f3095f221d.json",
+      "sha256": "b457c1ca687474eaa79935a4d0caa34c8a76a3b5a9749e6b271a43353d282d62",
+      "bytes": 49750
+    },
+    {
+      "file": "content/article-sheyping-formirovanie-povedeniya-posledovatelnymi-priblizheniyami-106ec7f3095f221d.json",
+      "sha256": "a291b120d8b987fc0565377aca48cc7bc3d112e33e634d81e71866f83ccab23a",
+      "bytes": 50113
+    },
+    {
+      "file": "content/article-shizofreniya-i-psihoticheskie-rasstroystva-106ec7f3095f221d.json",
+      "sha256": "0e831cfe0ed9b0b1236f44a0c48424295dbb0fa46d7b96ff6a75f9a68d9f7309",
+      "bytes": 55724
+    },
+    {
+      "file": "content/article-schitovidnaya-i-paraschitovidnye-zhelezy-gormony-kaltsiy-i-sistemnye-simptomy-106ec7f3095f221d.json",
+      "sha256": "679d7a2b01ff726d30c049d302b5aa114abf722c2c0bdaaf718e0e028087e7fc",
+      "bytes": 48688
+    },
+    {
+      "file": "content/article-evolyutsiya-dospeha-schit-shlem-tsena-i-vozvraschenie-broni-106ec7f3095f221d.json",
+      "sha256": "463cdb436ee1110c7ba76c3af3249e1dc991b2021db66b739459efe1dd762a10",
+      "bytes": 143053
+    },
+    {
+      "file": "content/article-evolyutsiya-mecha-i-mif-o-sovershennom-klinke-106ec7f3095f221d.json",
+      "sha256": "82128f7135f1a688050e561e08e9239265a1d0c632e3224f9a0c3d4e879221a3",
+      "bytes": 99319
+    },
+    {
+      "file": "content/article-evolyutsiya-api-versii-paginatsiya-filtry-i-sovmestimost-106ec7f3095f221d.json",
+      "sha256": "1c9af6ada02aed0a3a1746e23916dfebd5a14d9b766d1cf9b0b9f227bbb2720a",
+      "bytes": 67978
+    },
+    {
+      "file": "content/article-evolyutsiya-estestvennyy-otbor-i-chelovek-106ec7f3095f221d.json",
+      "sha256": "7cede2c1a7a71d3aae67ac65d724df4ae662e0790608c38417cdb6753deb68d1",
+      "bytes": 56593
+    },
+    {
+      "file": "content/article-ezotericheskaya-diagnostika-i-tipologii-106ec7f3095f221d.json",
+      "sha256": "61e6bd6727c5cb44453cb45aec0a35476a63adefd19f2891a073f92835fd486f",
+      "bytes": 64617
+    },
+    {
+      "file": "content/article-ekspertnyy-biznes-uslugi-obeschaniya-i-platezhi-106ec7f3095f221d.json",
+      "sha256": "65c3051ec9ccb6f31fcf6c8557d39aa0670c7bfc540dad2cbad90123c2307f9c",
+      "bytes": 80936
+    },
+    {
+      "file": "content/article-emotsionalnaya-deprivatsiya-emotional-deprivation-106ec7f3095f221d.json",
+      "sha256": "52d6bcc43dbb4b91c1458efe153dc3144353583c4bd6de3e983604a831b6907e",
+      "bytes": 56790
+    },
+    {
+      "file": "content/article-emotsionalnaya-sderzhannost-emotional-inhibition-106ec7f3095f221d.json",
+      "sha256": "baf970cff1e4c16094977abad413a62375af34cefff8cc991070ee96448dd569",
+      "bytes": 45863
+    },
+    {
+      "file": "content/article-emotsionalnoe-vzroslenie-uyazvimost-i-adaptatsiya-106ec7f3095f221d.json",
+      "sha256": "c1dd7d8d8a1ab808d066c53a8265314dc445051826bed99cdd29bda0adb8c4fa",
+      "bytes": 44564
+    },
+    {
+      "file": "content/article-emotsionalnoe-vygoranie-106ec7f3095f221d.json",
+      "sha256": "c28fa2c6df062f25fbfe28be2e6fcd0a660aaa8d702d04dacf5c3a0b9be8f1cf",
+      "bytes": 50842
+    },
+    {
+      "file": "content/article-energeticheskiy-balans-i-uchet-pitaniya-106ec7f3095f221d.json",
+      "sha256": "5b3d2b8c42c229c4822a4d019a6460fee4f1b5d929fdfab982835328cef7c84e",
+      "bytes": 105454
+    },
+    {
+      "file": "content/article-erektsiya-eyakulyatsiya-i-dlitelnost-kontakta-106ec7f3095f221d.json",
+      "sha256": "d83e63f49dc957f49e9a3f5701900d1e621fa39657b79cf8a7aa0eb85337f6d1",
+      "bytes": 130043
+    },
+    {
+      "file": "content/article-etapy-prozhivaniya-gorya-106ec7f3095f221d.json",
+      "sha256": "1a0fd20f7b21bcae70dfd946725f58c87a371371d3d6187da98650e3f34536fd",
+      "bytes": 40856
+    },
+    {
+      "file": "content/article-etapy-sozdaniya-tela-106ec7f3095f221d.json",
+      "sha256": "d692936c75e677f80f2ff92a4de42872675b7334681012770a5d9e686960f0a4",
+      "bytes": 39108
+    },
+    {
+      "file": "content/article-ethology-rank-primality-106ec7f3095f221d.json",
+      "sha256": "943915375a20f03af48d6b2ee5a35fb6d024c57c37d007e06d4cf33073f1a8a1",
+      "bytes": 142132
+    },
+    {
+      "file": "content/article-effekt-barnuma-i-vrednye-oprosniki-106ec7f3095f221d.json",
+      "sha256": "e7d89a36063a8b7445d3eb6011ec9bbaae9a4bb4031339ec7f327d5fde31a659",
+      "bytes": 36601
+    },
+    {
+      "file": "content/article-effekt-danninga-kryugera-dunning-kruger-effect-106ec7f3095f221d.json",
+      "sha256": "2df142054f0187fa44784dc41450adb131270eea3cb1e16434704312577fb169",
+      "bytes": 61603
+    },
+    {
+      "file": "content/article-effekt-rozentalya-i-samosbyvayuscheesya-prorochestvo-106ec7f3095f221d.json",
+      "sha256": "1779307ce967aa8d3688c88c88b706db2a3e78918af9d2c3cbec772542dcb5d1",
+      "bytes": 38249
+    },
+    {
+      "file": "content/article-effekt-tolpy-mob-mentality-herd-behavior-106ec7f3095f221d.json",
+      "sha256": "61c6b11815edab3781d05cae302a2962254eedf896fdc904567c72194dd3c6be",
+      "bytes": 56621
+    },
+    {
+      "file": "content/article-effekt-yakoreniya-anchoring-bias-effekt-privyazki-106ec7f3095f221d.json",
+      "sha256": "2e3ab46637a55fc0626b3230c45298ae4ebabe9d3a4fedd15e44f4181902c0dc",
+      "bytes": 41436
+    },
+    {
+      "file": "content/article-eho-kamery-i-informatsionnye-puzyri-106ec7f3095f221d.json",
+      "sha256": "31de330495ddf4f7d72e03873286a6f0a8571e0c1f9b49344e1f5bf4e563a83c",
+      "bytes": 46662
+    },
+    {
+      "file": "content/article-yaponskie-i-kitayskie-klinki-forma-sreda-i-zadacha-106ec7f3095f221d.json",
+      "sha256": "e871adbb4ba90dcd4cea68ca5abd9b19852de6a2b524233285c4ff62481ceaec",
+      "bytes": 137172
+    },
+    {
+      "file": "content/article-apache-kafka-zhurnal-partitsii-i-gruppy-potrebiteley-106ec7f3095f221d.json",
+      "sha256": "3a9d6718d6b61715e9cde681476fb5a9ce20b12d6be4cdad714e280cd40ba56f",
+      "bytes": 87566
+    },
+    {
+      "file": "content/article-api-kak-kontrakt-granitsy-otvetstvennosti-i-proektirovanie-106ec7f3095f221d.json",
+      "sha256": "dbbb2bee5cea007c6c2f9a7bf114b644592d470a6e6c58455f086ac823d2c153",
+      "bytes": 77035
+    },
+    {
+      "file": "content/article-api-gateway-bff-service-mesh-i-koordinatsiya-servisov-106ec7f3095f221d.json",
+      "sha256": "ce79744c7840c8ed643b43a22fc538f1d62e8e065da1c4e8d39c12efe8a6fe2d",
+      "bytes": 68607
+    },
+    {
+      "file": "content/article-bpmn-protsessy-sobytiya-shlyuzy-i-ispolnenie-106ec7f3095f221d.json",
+      "sha256": "96004711fa3c470cae9bb262e2e42cac42ff05404be258b31b77f7d91024a70e",
+      "bytes": 70645
+    },
+    {
+      "file": "content/article-crispr-i-gennaya-terapiya-106ec7f3095f221d.json",
+      "sha256": "5fdd193a54f84169071e50772b2f8c8a4fc30d4c7ac50dc4b46dd99e33483eaa",
+      "bytes": 50981
+    },
+    {
+      "file": "content/article-customer-journey-map-ot-opyta-polzovatelya-k-izmeneniyu-sistemy-106ec7f3095f221d.json",
+      "sha256": "b8e52d35a1ff95fd17c27d04ea1da5d0fe323b247f84093e80fd2ba35f6eff7b",
+      "bytes": 91568
+    },
+    {
+      "file": "content/article-ddd-predmetnaya-model-i-ogranichennye-konteksty-106ec7f3095f221d.json",
+      "sha256": "175fceeb53ddfdd60c9a7abaca8732529dba38c20ce16fb8d83a30ed76c5efd6",
+      "bytes": 56993
+    },
+    {
+      "file": "content/article-docs-as-code-i-zhivaya-dokumentatsiya-106ec7f3095f221d.json",
+      "sha256": "8aebe8ac285a429a2f67d1618bb01844cbeb14fe224379e99978ac5bb0498cc0",
+      "bytes": 62736
+    },
+    {
+      "file": "content/article-graphql-shema-graf-i-upravlenie-zaprosom-106ec7f3095f221d.json",
+      "sha256": "70daa1f67f9cb5b690e02280bb7e15c79c5d3535749400e6d1b832875b3d2133",
+      "bytes": 71062
+    },
+    {
+      "file": "content/article-grpc-protobuf-i-rpc-mezhdu-servisami-106ec7f3095f221d.json",
+      "sha256": "822f80cc7677cc4444ec7e4932ce0157f5d3b06195b618aefa7252c4217570dc",
+      "bytes": 65267
+    },
+    {
+      "file": "content/article-http-https-dns-tls-i-put-veb-zaprosa-106ec7f3095f221d.json",
+      "sha256": "108075e87483b1ec1c4cea688cf7be7faad5a6f4962f733b829118eea6d3636d",
+      "bytes": 69675
+    },
+    {
+      "file": "content/article-idef0-epc-i-funktsionalnoe-modelirovanie-106ec7f3095f221d.json",
+      "sha256": "0e4610c9eb7aad636bbcb8144745151bbaa404df2bab22763bfecb5dd0ee39d5",
+      "bytes": 66452
+    },
+    {
+      "file": "content/article-json-schema-openapi-i-kontrakt-pervym-106ec7f3095f221d.json",
+      "sha256": "1757c863155278d9f5a5b23449c984a4e86ba45df78e8382423fa5ba155f5dc6",
+      "bytes": 73941
+    },
+    {
+      "file": "content/article-oauth-2-openid-connect-saml-i-sso-106ec7f3095f221d.json",
+      "sha256": "1d608945a59689ae8a11210a8d7fbbbdfeda6a9fb3998e8411f2f261f51fafa0",
+      "bytes": 65794
+    },
+    {
+      "file": "content/article-oltp-olap-dwh-data-lake-i-potok-dannyh-106ec7f3095f221d.json",
+      "sha256": "91aab772eea2061eb03c60502c0ef3e052f0d78c86fc7cec1a06a0df232837cb",
+      "bytes": 99055
+    },
+    {
+      "file": "content/article-pki-sertifikaty-shifrovanie-heshirovanie-i-elektronnaya-podpis-106ec7f3095f221d.json",
+      "sha256": "4f1ef5c4c131405554e3e688ab0f444707029ab23abc87dce87c1a505aac74d9",
+      "bytes": 72662
+    },
+    {
+      "file": "content/article-rest-resursy-metody-statusy-i-idempotentnost-106ec7f3095f221d.json",
+      "sha256": "43fe7ebc7cef4f9c5ab488f136098aa3cd6ab25a7feb1edd599c3713da6d4b17",
+      "bytes": 71323
+    },
+    {
+      "file": "content/article-soap-i-json-rpc-kontraktnye-stili-vyzova-106ec7f3095f221d.json",
+      "sha256": "c6ee9764599fd60333c1fc929f5d1ea86efb5ba1363d2ffc6a1bfebff7c4a4eb",
+      "bytes": 76513
+    },
+    {
+      "file": "content/article-sql-nosql-i-vybor-modeli-hraneniya-106ec7f3095f221d.json",
+      "sha256": "9e4d49206f8bfebd23b631d737b808e7187006e8a55aabc2ed4e0b00a6f97a96",
+      "bytes": 74209
+    },
+    {
+      "file": "content/article-sql-soedineniya-agregatsii-i-okonnye-funktsii-106ec7f3095f221d.json",
+      "sha256": "a4285ac6f145cd046db8f23ada717b10d089877fe94da7125f7c3b41d37c8bea",
+      "bytes": 80287
+    },
+    {
+      "file": "content/article-uml-c4-i-plantuml-struktura-povedenie-i-arhitektura-106ec7f3095f221d.json",
+      "sha256": "b7b29310fd5d69ad1ae01620db237a553e11ba485032c5f119fda99508763141",
+      "bytes": 74787
+    },
+    {
+      "file": "content/article-use-case-stsenarii-i-granitsy-sistemy-106ec7f3095f221d.json",
+      "sha256": "2a348bb84686a956b6eafbc84a422796b7912c2ed27a7b6b329e1d9caefb2a94",
+      "bytes": 63416
+    },
+    {
+      "file": "content/article-user-story-job-story-i-upravlenie-beklogom-106ec7f3095f221d.json",
+      "sha256": "f334ebb688e5e98579eadb179d6b2362bde736147189e9549d78ffc70950e485",
+      "bytes": 59808
+    },
+    {
+      "file": "content/article-webhook-websocket-sse-i-obmen-v-realnom-vremeni-106ec7f3095f221d.json",
+      "sha256": "c299a747b64ce3b046c44e85c90b370ae793a1e61d7a20aa3a8fd89738b1b1d6",
+      "bytes": 86452
+    },
+    {
+      "file": "content/search-106ec7f3095f221d.json",
+      "sha256": "be317d68ebfaaac00ebdc6a26900739b975521a0bda0f8d5ff7b5e3302ad76c1",
+      "bytes": 26167907
+    }
+  ],
+  "retainedBytes": 58200550
+}
